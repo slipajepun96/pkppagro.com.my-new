@@ -104,7 +104,7 @@
             </p>
 
             <p>        
-              Dalam mempelbagaikan aktivitinya, PKPP Agro juga menjalankan ternakan ikan air tawar, perladangan kelapa sawit dan tanaman kelapa. Aktiviti baru yang turut diusahakan adalah Projek Agrotourism Paya Laka dan tanaman nanas.
+              Pada awal penubuhannya, PKPP Agro hanya terlibat didalam bidang tanaman padi sahaja di dalam daerah Rompin. Bermula tahun 2016, dalam mempelbagaikan aktivitinya, PKPP Agro mula mengorak langkah menceburi perladangan kelapa sawit, tanaman kelapa, nanas, <i>agro-tourism</i> dan nanas.
             </p>
             <br><br>
           </div>

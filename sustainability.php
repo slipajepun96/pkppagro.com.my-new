@@ -80,7 +80,7 @@
                     <div class="carousel-caption d-md-block">
                       <h3>Integriti</h3>
                       
-                      <br><a href="https://ndpe.pkpp.gov.my/"><button class="rounded-pill btn btn-primary mb-1">Lihat Dasar Integriti &rarr;</button></a>
+                      <br><a href="integrity.php"><button class="rounded-pill btn btn-primary mb-1">Lihat Dasar Integriti &rarr;</button></a>
                     </div>
                 </div>
               </div>
