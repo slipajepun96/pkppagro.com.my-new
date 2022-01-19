@@ -52,15 +52,21 @@
   
 <!-- image banner -->
   <img src="assets/img/page-header.jpg" width="100%">
+  <br><br>
 <div class="container">
-  <p>Dalam usaha untuk memantapkan tadbir urus syarikat dan mencegah elemen rasuah dan salah guna kuasa didalam urusan syarikat, PKPP Agro mengamalkan</p>
+  <p>Dalam usaha untuk memantapkan tadbir urus syarikat, PKPP Agro mengamalkan polisi-polisi dibawah bagi membendung perbuatan rasuah, penyelewengan dan salah guna kuasa yang berlaku melibat pihak dalam mahupun pihak luaran. </p>
+  <br><br>
   <div class="col">
     <div class="row">
-      <div class="col-md-6 p-1">
-        <embed src="assets/img/integriti/polisi-anti-rasuah-dan-integriti.pdf" type="application/pdf" width="100%" height="500px">
+      <div class="col-md-6 p-1 border">
+        <h3 class="text-center">Polisi Anti-Rasuah dan Integriti</h3>
+        <img src="assets/img/integriti/polisi-anti-rasuah-dan-integriti.png" alt="" width="100%">
+        <!-- <embed src="assets/img/integriti/polisi-anti-rasuah-dan-integriti.pdf" type="application/pdf" width="100%" height="500px"> -->
       </div>
-      <div class="col-md-6 p-1">
-        <embed src="assets/img/integriti/polisi-anti-rasuah-dan-integriti.pdf" type="application/pdf" width="100%" height="500px">
+      <div class="col-md-6 p-1 border">
+        <h3 class="text-center">Polisi Tiada Hadiah</h3>
+        <img src="assets/img/integriti/polisi-tiada-hadiah.png" alt="" width="100%">
+        <!-- <embed src="assets/img/integriti/polisi-anti-rasuah-dan-integriti.pdf" type="application/pdf" width="100%" height="500px"> -->
       </div> 
     </div>
   </div>

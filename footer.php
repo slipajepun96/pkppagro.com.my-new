@@ -50,7 +50,7 @@
 
                            
                 <!-- Rights-->
-                <p class="rights"><span>©  </span><span class="copyright-year"><?php echo date("Y"); ?></span> PKPP Agro Sdn. Bhd.</p>
+               <span>©  </span><span class="copyright-year"><?php echo date("Y"); ?></span> PKPP Agro Sdn. Bhd.
               
 			  
 			  </div>
