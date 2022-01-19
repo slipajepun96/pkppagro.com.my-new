@@ -76,7 +76,7 @@
               <div class="carousel-inner">
                 <div class="carousel-item active">
                     <!-- <img src="assets/img/sustainable.png" class="d-none d-md-block w-100" alt="..."> -->
-                    <img src="assets/img/image/workspace.jpg" class="w-100 " alt="...">
+                    <img src="assets/img/image/office-front.jpg" class="w-100 " alt="...">
                     <div class="carousel-caption d-md-block">
                       <h3>Integriti</h3>
                       

@@ -39,11 +39,11 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Dasar MSPO & NDPE</h2>
+          <h2>Dasar Integriti</h2>
           <ol>
             <li><a href="index.html">Utama</a></li>
             <li><a href="sustainability.php">Kelestarian & Integriti</a></li>
-            <li>Dasar MSPO & NDPE</li>
+            <li>Dasar Integriti</li>
           </ol>
         </div>
 
