@@ -53,37 +53,32 @@
 <!-- image banner -->
   <img src="assets/img/page-header.jpg" width="100%">
 <div class="container">
-  <p></p>
-<div class="col">
-  <div class="row">
-		<div class="col-md-3 p-1"><a href="mspo-policy.php?p_id=1"><img src="assets/img/mspo/head1.png" width="100%" data-aos="zoom-in"></a></div>
-		<div class="col-md-3 p-1"><a href="mspo-policy.php?p_id=2"><img src="assets/img/mspo/head2.png" width="100%" data-aos="zoom-in"></a></div> 
-		<div class="col-md-3 p-1"><a href="mspo-policy.php?p_id=3"><img src="assets/img/mspo/head3.png" width="100%" data-aos="zoom-in"></a></div>
-    <div class="col-md-3 p-1"><a href="mspo-policy.php?p_id=4"><img src="assets/img/mspo/head4.png" width="100%" data-aos="zoom-in"></a></div>
-
-  </div>
-</div></div>
-
-<div class="container">
+  <p>Dalam usaha untuk memantapkan tadbir urus syarikat dan mencegah elemen rasuah dan salah guna kuasa didalam urusan syarikat, PKPP Agro mengamalkan</p>
   <div class="col">
     <div class="row">
-      <div class="col-md-3 p-1"><a href="mspo-policy.php?p_id=5"><img src="assets/img/mspo/head5.png" width="100%" data-aos="zoom-in"></a></div>
-      <div class="col-md-3 p-1"><a href="mspo-policy.php?p_id=6"><img src="assets/img/mspo/head6.png" width="100%" data-aos="zoom-in"></a></div> 
-      <div class="col-md-3 p-1"><a href="mspo-policy.php?p_id=7"><img src="assets/img/mspo/head7.png" width="100%" data-aos="zoom-in"></a></div>
-      <div class="col-md-3 p-1"><a href="mspo-policy.php?p_id=8"><img src="assets/img/mspo/head8.png" width="100%" data-aos="zoom-in"></a></div>
+      <div class="col-md-6 p-1">
+        <embed src="assets/img/integriti/polisi-anti-rasuah-dan-integriti.pdf" type="application/pdf" width="100%" height="500px">
+      </div>
+      <div class="col-md-6 p-1">
+        <embed src="assets/img/integriti/polisi-anti-rasuah-dan-integriti.pdf" type="application/pdf" width="100%" height="500px">
+      </div> 
     </div>
   </div>
 </div>
-<div class="container">
-  <div class="col">
-    <div class="row">
-      <div class="col-md-2 p-1"></div>
-      <div class="col-md-8 p-1"><a href="https://ndpe.pkpp.gov.my/document/ndpepolicy.pdf"><img src="assets/img/mspo/ndpe-header.png" width="100%" data-aos="zoom-in"></a></div>
-      <div class="col-md-2 p-1"></div>
-    </div>
-  </div>
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel" data-aos="fade-up">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+              <!-- <img src="assets/img/sustainable.png" class="d-none d-md-block w-100" alt="..."> -->
+              <img src="assets/img/whistle.jpg" class="w-100 " alt="...">
+              <div class="carousel-caption d-md-block">
+                <h3>Blow the whistle!</h3>
+                <p id="carousel-p" class="d-none d-lg-block">Laporkan jika anda mengesyaki berlakunya salah laku atau pelanggaran etika, prinsip integriti dan undang-undang </p>
+                <br><a href="whistleblowing.php"><button class="rounded-pill btn btn-primary mb-1">Saluran Whistleblowing &rarr;</button></a>
+              </div>
+          </div>
+        </div>
+      </div>
 </div>
-      
 
    
 </main><!-- End #main -->

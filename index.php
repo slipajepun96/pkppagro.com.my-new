@@ -87,35 +87,31 @@
     <!-- ======= About Section ======= -->
     <br>
       <div class="container">
-
         <div class="row content" data-aos="fade-up">
           <div class="col-lg-4">
             <img src="assets/img/kompleks-dan-ladang.JPG" alt="" width="100%" >
           </div>
-        <div class="col-lg-8 col-sm-12">
-            
-        <div class="section-title" data-aos="zoom-out">
-          <h2>TENTANG KAMI</h2>
-          <p>Sejarah Kami</p>
-        </div>
-
-            <p>
-              PKPP Agro Sdn. Bhd. (PKPP Agro), dahulunya dikenali sebagai LKPP Padi Sdn. Bhd. merupakan syarikat ahli kumpulan agensi Kerajaan Negeri Pahang iaitu Perbadanan Kemajuan Pertanian Negeri Pahang (PKPP), ditubuhkan pada 8 Disember 1994 dengan pegangan ekuiti penuh (100%) oleh PKPP.
-            </p>
-
-            <p>        
-              Pada awal penubuhannya, PKPP Agro hanya terlibat didalam bidang tanaman padi sahaja di dalam daerah Rompin. Bermula tahun 2016, dalam mempelbagaikan aktivitinya, PKPP Agro mula mengorak langkah menceburi perladangan kelapa sawit, tanaman kelapa, nanas, <i>agro-tourism</i> dan nanas.
-            </p>
-            <br><br>
-          </div>
-          <div class="row">
-            <div class="col-lg-12 col-sm-12"> 
-              <img src="assets/img/abms.png" alt="Ke Arah Pensijilan ISO 37001:2019" width="100%">
+          <div class="col-lg-8 col-sm-12">            
+            <div class="section-title" data-aos="zoom-out">
+              <h2>TENTANG KAMI</h2>
+              <p>Sejarah Kami</p>
             </div>
+
+              <p>
+                PKPP Agro Sdn. Bhd. (PKPP Agro), dahulunya dikenali sebagai LKPP Padi Sdn. Bhd. merupakan syarikat ahli kumpulan agensi Kerajaan Negeri Pahang iaitu Perbadanan Kemajuan Pertanian Negeri Pahang (PKPP), ditubuhkan pada 8 Disember 1994 dengan pegangan ekuiti penuh (100%) oleh PKPP.
+              </p>
+
+              <p>        
+                Pada awal penubuhannya, PKPP Agro hanya terlibat didalam bidang tanaman padi sahaja di dalam daerah Rompin. Bermula tahun 2016, dalam mempelbagaikan aktivitinya, PKPP Agro mula mengorak langkah menceburi perladangan kelapa sawit, tanaman kelapa, nanas, <i>agro-tourism</i> dan nanas.
+              </p>
+              <br><br>
           </div>
-
+        </div>  
+        <div class="row">
+          <div class="col-12"> 
+            <img src="assets/img/abms.png" alt="Ke Arah Pensijilan ISO 37001:2019" width="100%">
+          </div>
         </div>
-
       </div>
       
 
