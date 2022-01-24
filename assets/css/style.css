@@ -493,7 +493,7 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #2a2c39;
+  color: #000000;
 }
 
 .white-text {
@@ -506,7 +506,7 @@ p {
   font-size: 18px;
   font-weight: 400;
   font-family: "Poppins", sans-serif;
-  color: #ffffff;
+  color: #000000;
 }
 
 #carousel-p {

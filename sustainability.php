@@ -94,7 +94,7 @@
 </div>
 
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel" data-aos="fade-up">
-        <div class="carousel-inner">
+     <div class="carousel-inner">
           <div class="carousel-item active">
               <!-- <img src="assets/img/sustainable.png" class="d-none d-md-block w-100" alt="..."> -->
               <img src="assets/img/whistle.jpg" class="w-100 " alt="...">
@@ -104,7 +104,7 @@
                 <br><a href="whistleblowing.php"><button class="rounded-pill btn btn-primary mb-1">Saluran Whistleblowing &rarr;</button></a>
               </div>
           </div>
-        </div>
+        </div>   
       </div>
 </div>
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel" data-aos="fade-up">

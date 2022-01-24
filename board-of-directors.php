@@ -60,9 +60,9 @@
           <p>Ahli Lembaga Pengarah Kami</p>
         </div>
 
-        <div class="row">
+        <div class="row justify-content-center d-flex">
 
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-6 d-flex justify-content-center">
             <div class="member" data-aos="fade-up">
               <div class="member-img">
                 <img src="assets/img/bod_image/ceosuhaimi.jpg" class="img-fluid" alt="">

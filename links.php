@@ -79,22 +79,22 @@
 				<br>
       </div>
 		</div>             
-</div>
+  </div>
 <br><br>
-<!--<h2 align=center>Pautan Dalaman</h2>
+<h2 align=center>Pautan Dalaman</h2>
   <div class="container">
-  <div class="row row-30"> 
-		<div class="col-md-6 card">
-				<br><a href="http://www.pkpp.gov.my" target="_blank"><img src="assets/img/links/pkpp.png" width=100><br>Perbadanan Kemajuan Pertanian Negeri Pahang (PKPP)</a>
+  <div class="row row-30 d-flex justify-content-center"> 
+		<div class="col-md-2 card">
+				<br><a href="https://pkppagro.com.my:2096/?" target="_blank"><img src="https://pkppagro.com.my:2096/cPanel_magic_revision_1549389454/unprotected/cpanel/images/webmail-logo.svg" width=130><br>Webmail</a>
 				<br>
     </div>
-    <div class="col-md-6 card">
+    <div class="col-md-2 card">
 				<br><a href="http://www.pkpp.gov.my" target="_blank"><img src="assets/img/links/pkpp.png" width=100><br>Perbadanan Kemajuan Pertanian Negeri Pahang (PKPP)</a>
 				<br>
     </div>
 		</div>             
 </div>
- -->
+
 
   </main><!-- End #main -->
 

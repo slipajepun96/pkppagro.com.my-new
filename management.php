@@ -62,15 +62,15 @@
           <h2></h2>
           <p>Pengurusan Kanan</p>
         </div>
-          <div class="row mgmtrow">
+          <div class="row mgmtrow justify-content-center">
 
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member" data-aos="fade-up">
                 <div class="member-img">
-                  <img src="assets/img/bod_image/ceosuhaimi.jpg" class="img-fluid" alt="">
+                  <img src="assets/img/management_image/zameri.png" class="img-fluid" alt="">
                 </div>
                 <div class="member-info">
-                  <h4>Zameri bin Uyob</h4>
+                  <h4>Encik Zameri bin Uyob</h4>
                   <span>Pengurus Besar</span>
                 </div>
               </div>
@@ -81,22 +81,22 @@
                 <img src="assets/img/management_image/maf.png" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Awallyza binti Abdullah</h4>
+                <h4>Puan Awallyza binti Abdullah</h4>
                 <span>Pengurus Pentadbiran & Kewangan</span>
               </div>
             </div>
           </div>
 
         </div>
-        <div class="row">
+        <div class="row justify-content-center">
 
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch justify-content-center">
               <div class="member" data-aos="fade-up" data-aos-delay="100">
                 <div class="member-img">
                   <img src="assets/img/management_image/amirularif.png" class="img-fluid" alt="">
                 </div>
                 <div class="member-info">
-                  <h4>Mohd. Amirul'Amir bin Tarli</h4>
+                  <h4>Encik Mohd. Amirul'Amir bin Tarli</h4>
                   <span>Penolong Pengurus Operasi</span>
                 </div>
               </div>
@@ -108,7 +108,7 @@
                 <img src="assets/img/bod_image/sarwah.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Wan Nur Izyan binti Zainudin</h4>
+                <h4>Cik Wan Nur Izyan binti Zainudin</h4>
                 <span>Eksekutif Rendah (Akaun)</span>
               </div>
             </div>
@@ -139,7 +139,7 @@
                   <img src="assets/img/management_image/taharin.png" class="img-fluid" alt="">
                 </div>
                 <div class="member-info">
-                  <h4>Taharin bin Yusoff</h4>
+                  <h4>Encik Taharin bin Yusoff</h4>
                   <span>Pengurus Ladang</span>
                 </div>
               </div>
@@ -151,7 +151,7 @@
                   <img src="assets/img/bod_image/sarwah.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="member-info">
-                  <h4>Yusri bin Yusoff</h4>
+                  <h4>Encik Yusri bin Yusoff</h4>
                   <span>Penolong Pengurus</span>
                 </div>
               </div>
@@ -163,7 +163,7 @@
                 <img src="assets/img/bod_image/sarwah.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Aiman Najmi bin Abd Razak</h4>
+                <h4>Encik Aiman Najmi bin Abd Razak</h4>
                 <span>Eksekutif Rendah (Ladang)</span>
               </div>
             </div>
@@ -185,7 +185,7 @@
                 <img src="assets/img/management_image/abd halim.png" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Abd Halim bin Abd Hamid</h4>
+                <h4>Encik Abd Halim bin Abd Hamid</h4>
                 <span>Pengurus Ladang</span>
               </div>
             </div>
@@ -197,7 +197,7 @@
                 <img src="assets/img/bod_image/sarwah.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Mohd. Mukhairi bin Osman</h4>
+                <h4>Encik Mohd. Mukhairi bin Osman</h4>
                 <span>Penolong Pengurus</span>
               </div>
             </div>
@@ -218,7 +218,7 @@
                 <img src="assets/img/bod_image/sarwah.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Mohd. Faiz bin Osman</h4>
+                <h4>Encik Mohd. Faiz bin Osman</h4>
                 <span>Pegawai Penjaga</span>
               </div>
             </div>
