@@ -105,7 +105,7 @@
                 <img src="assets/img/bod_image/sharifah.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Puan Hajah Sharifah Norjannah binti Syed Agil</h4>
+                <h4>Puan Hajah Sharifah Norjannah <br> binti Syed Agil</h4>
                 <span>Pengarah</span>
               </div>
             </div>
@@ -117,7 +117,7 @@
                 <img src="assets/img/bod_image/hisham.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Encik Ahmad Hisham bin Abdul Halim</h4>
+                <h4>Encik Ahmad Hisham <br> bin Abdul Halim</h4>
                 <span>Pengarah</span>
               </div>
             </div>

@@ -54,27 +54,27 @@
   <br><br><h2 align=center>Pautan Luar</h2>
   <div class="container">
   <div class="row row-30"> 
-		<div class="col-md-2 card">
+		<div class="col-md-2 card text-center">
 				<br><a href="http://www.pkpp.gov.my" target="_blank"><img src="assets/img/links/pkpp.png" width=100><br>Perbadanan Kemajuan Pertanian Negeri Pahang (PKPP)</a>
 				<br>
           </div>
-		  <div class="col-md-2 card">
+		  <div class="col-md-2 card text-center">
 				<br><a href="http://www.moa.gov.my" target="_blank"><img src="assets/img/links/moa.png" width=135><br>Kementerian Pertanian Dan Industri Asas Tani (MOA)</a>
 				<br>
           </div>
-		  <div class="col-md-2 card">
+		  <div class="col-md-2 card text-center">
 				<br><a href="http://agri.pahang.gov.my" target="_blank"><img src="assets/img/links/jabatan-pertanian.png" width=140><br>Jabatan Pertanian Negeri Pahang</a>
 				<br>
           </div>
-		   <div class="col-md-2 card">
+		   <div class="col-md-2 card text-center">
 				<br><a href="http://www.pahang.gov.my" target="_blank"><img src="assets/img/links/suk_pahang.png" width=92><br>Setiausaha Kerajaan Negeri Pahang (SUK Pahang)</a>
 				<br>
           </div>
-		  <div class="col-md-2 card">
+		  <div class="col-md-2 card text-center">
 				<br><a href="http://www.mpob.gov.my" target="_blank"><img src="assets/img/links/mpob.png" width=140><br>Lembaga Minyak Sawit Malaysia (MPOB)</a>
 				<br>
           </div>
-		  <div class="col-md-2 card">
+		  <div class="col-md-2 card text-center">
 				<br><a href="http://www.mardi.gov.my" target="_blank"><img src="assets/img/links/mardi.png" width=110><br>Institut Penyelidikan Dan Kemajuan Pertanian Malaysia (MARDI)</a>
 				<br>
       </div>
@@ -84,11 +84,11 @@
 <h2 align=center>Pautan Dalaman</h2>
   <div class="container">
   <div class="row row-30 d-flex justify-content-center"> 
-		<div class="col-md-2 card">
-				<br><a href="https://pkppagro.com.my:2096/?" target="_blank"><img src="https://pkppagro.com.my:2096/cPanel_magic_revision_1549389454/unprotected/cpanel/images/webmail-logo.svg" width=130><br>Webmail</a>
+		<div class="col-md-2 card text-center">
+				<br><br><br><a href="https://pkppagro.com.my:2096/?" target="_blank"><img src="https://pkppagro.com.my:2096/cPanel_magic_revision_1549389454/unprotected/cpanel/images/webmail-logo.svg" width=130><br><br><br> Webmail</a>
 				<br>
     </div>
-    <div class="col-md-2 card">
+    <div class="col-md-2 card text-center">
 				<br><a href="http://www.pkpp.gov.my" target="_blank"><img src="assets/img/links/pkpp.png" width=100><br>Perbadanan Kemajuan Pertanian Negeri Pahang (PKPP)</a>
 				<br>
     </div>
