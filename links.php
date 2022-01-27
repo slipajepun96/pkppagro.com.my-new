@@ -82,18 +82,14 @@
   </div>
 <br><br>
 <h2 align=center>Pautan Dalaman</h2>
-  <div class="container">
-  <div class="row row-30 d-flex justify-content-center"> 
-		<div class="col-md-2 card text-center">
-				<br><br><br><a href="https://pkppagro.com.my:2096/?" target="_blank"><img src="https://pkppagro.com.my:2096/cPanel_magic_revision_1549389454/unprotected/cpanel/images/webmail-logo.svg" width=130><br><br><br> Webmail</a>
-				<br>
-    </div>
-    <div class="col-md-2 card text-center">
-				<br><a href="http://www.pkpp.gov.my" target="_blank"><img src="assets/img/links/pkpp.png" width=100><br>Perbadanan Kemajuan Pertanian Negeri Pahang (PKPP)</a>
-				<br>
-    </div>
-		</div>             
-</div>
+  <div class="container ">
+    <div class="row row-30 d-flex justify-content-center"> 
+      <div class="col-md-2 card text-center">
+          <br><br><br><a href="https://pkppagro.com.my:2096/?" target="_blank"><img src="https://pkppagro.com.my:2096/cPanel_magic_revision_1549389454/unprotected/cpanel/images/webmail-logo.svg" width=130><br><br><br> Webmail</a>
+          <br>
+      </div>
+    </div>             
+  </div><br>
 
 
   </main><!-- End #main -->
