@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>PKPP Agro - Tentang Kami</title>
+  <title>PKPP Agro - Visi & Misi</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -39,10 +39,10 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Tentang Kami</h2>
+          <h2>Visi & Misi</h2>
           <ol>
-            <li><a href="index.html">Utama</a></li>
-            <li>Tentang Kami</li>
+            <li><a href="index.php">Utama</a></li>
+            <li>Visi & Misi</li>
           </ol>
         </div>
 
@@ -57,7 +57,7 @@
     <div class="row">
       <div class="col-lg-6">
         <div class="section-title" data-aos="zoom-out">
-          <h2>TENTANG KAMI</h2>
+          <h2></h2>
           <p>Visi</p>
         </div>
         <div class="content" data-aos="fade-up">
@@ -69,7 +69,7 @@
       
       <div class="col-lg-6 pt-4 pt-lg-0">
         <div class="section-title" data-aos="zoom-out">
-          <h2>TENTANG KAMI</h2>
+          <h2></h2>
           <p>Misi</p>
         </div>
         <div class="content" data-aos="fade-up">
@@ -83,7 +83,7 @@
     <div class="row">
       <div class="col-lg-6">
         <div class="section-title" data-aos="zoom-out">
-          <h2>TENTANG KAMI</h2>
+          <h2></h2>
           <p>Objektif Korporat</p>
         </div>
         <div class="content" data-aos="fade-up">
@@ -95,7 +95,7 @@
       
       <div class="col-lg-6 pt-4 pt-lg-0">
         <div class="section-title" data-aos="zoom-out">
-          <h2>TENTANG KAMI</h2>
+          <h2></h2>
           <p>Strategi Korporat</p>
         </div>
         <div class="content" data-aos="fade-up">

@@ -12,7 +12,7 @@
         <ul>
           <li class="dropdown"><a href="#"><span>Maklumat Korporat</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="about-us.php">Visi & Misi</a></li>
+              <li><a href="vision-mission.php">Visi & Misi</a></li>
               <li><a href="board-of-directors.php">Lembaga Pengarah</a></li>
               <li><a href="management.php">Pengurusan</a></li>
             </ul>

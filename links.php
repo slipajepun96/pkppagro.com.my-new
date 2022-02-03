@@ -85,9 +85,14 @@
   <div class="container ">
     <div class="row row-30 d-flex justify-content-center"> 
       <div class="col-md-2 card text-center">
-          <br><br><br><a href="https://pkppagro.com.my:2096/?" target="_blank"><img src="https://pkppagro.com.my:2096/cPanel_magic_revision_1549389454/unprotected/cpanel/images/webmail-logo.svg" width=130><br><br><br> Webmail</a>
+          <br><br><a href="https://pkppagro.com.my:2096/?" target="_blank"><img src="https://pkppagro.com.my:2096/cPanel_magic_revision_1549389454/unprotected/cpanel/images/webmail-logo.svg" width=130><br><br><br> Webmail</a>
           <br>
       </div>
+      <div class="col-md-2 card text-center">
+          <a href="http://cloud.pkppagro.com.my/owncloud" target="_blank"><img src="assets/img/owncloud.png" width="100%">Owncloud Storage</a>
+          <br>
+      </div>
+
     </div>             
   </div><br>
 
