@@ -95,7 +95,7 @@
                   <img src="assets/img/management_image/amirularif.png" class="img-fluid" alt="">
                 </div>
                 <div class="member-info">
-                  <h4>Encik Mohd. Amirul'Amir bin Tarli</h4>
+                  <h4>Encik Mohd. Amirul 'Arif bin Tarli</h4>
                   <span>Penolong Pengurus Operasi</span>
                 </div>
               </div>

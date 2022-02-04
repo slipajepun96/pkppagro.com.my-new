@@ -41,6 +41,9 @@
 
       <!-- Slide 1 -->
       <div class="carousel-item active">
+      <video autoplay muted loop id="myVideo">
+        <source src="rain.mp4" type="video/mp4">
+      </video>
         <div class="carousel-container">
           <h2 class="animate__animated animate__fadeInDown">Selamat Datang Ke PKPP Agro</h2>
           <p class="animate__animated fanimate__adeInUp">Istiqomah Pemangkin Kecemerlangan</p>
@@ -62,8 +65,8 @@
           <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
           <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
         </div>
-      </div> -->
-    </div>
+      </div>-->
+    </div> 
 
     <svg class="hero-waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28 " preserveAspectRatio="none">
       <defs>
