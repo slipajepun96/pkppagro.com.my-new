@@ -41,9 +41,7 @@
 
       <!-- Slide 1 -->
       <div class="carousel-item active">
-      <video autoplay muted loop id="myVideo">
-        <source src="rain.mp4" type="video/mp4">
-      </video>
+
         <div class="carousel-container">
           <h2 class="animate__animated animate__fadeInDown">Selamat Datang Ke PKPP Agro</h2>
           <p class="animate__animated fanimate__adeInUp">Istiqomah Pemangkin Kecemerlangan</p>
@@ -134,7 +132,6 @@
 
 </div></section>
 
-    
 
   </main><!-- End #main -->
 
