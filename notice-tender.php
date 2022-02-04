@@ -66,7 +66,8 @@
   <!-- career's card -->
   <div class="container">
     <h2>Kerjaya</h2>
-    <i>Haraf Maaf, Tiada Kekosongan Ditawarkan Pada Masa Ini</i>
+    <b>1. Program Latihan & Kerjaya - Operator Perladangan di ladang-ladang PKPP Agro Sdn. Bhd.</b><br>
+    <a href="https://drive.google.com/file/d/1QTjCKjPn-lMowUEjLUPM18IDazo-qokw/view?usp=sharing">Muat Turun Poster</a>
     <br><hr>
   </div>
   <!-- end of career's card -->
