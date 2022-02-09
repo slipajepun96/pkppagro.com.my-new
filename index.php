@@ -134,8 +134,7 @@
           </div>
         </div>
       </div>
-
-</div></section>
+    </div></section>
 
 
   </main><!-- End #main -->
