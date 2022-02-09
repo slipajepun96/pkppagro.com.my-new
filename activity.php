@@ -79,7 +79,7 @@
               </div>
               <div class="row content">
                 <p>
-                  PKPP Agro melalui usahasama bersama beberapa pihak mengusahakan tanaman padi seluas 618 Hektar di daerah Rompin, Pahang dan ditanam dengan beberapa jenis varieti.
+                  Sejak awal penubuhan pada tahun 1994, kami terlibat dalam tanaman padi di sawah seluas 618 Hektar yang terletak daerah Rompin, Pahang.
                 </p>
               </div>       
           </div>
@@ -98,11 +98,11 @@
           <div class="col-lg-6">
               <div class="section-title">
                 <h2>AKTIVITI KAMI</h2>
-                <p>SAWIT</p>
+                <p>KELAPA SAWIT</p>
               </div>
               <div class="content">
                 <p>
-                  Kami turut terlibat dalam industri sawit dengan mengoperasi dan menguruskan ladang-ladang sekitar daerah Rompin & Pekan dengan jumlah keluasan kawasan bertanam lebih daripada 3,000 Ha.
+                  Kami turut terlibat dalam tanaman kelapa sawit dengan menguruskan ladang-ladang sekitar daerah Rompin & Pekan dengan jumlah keluasan bertanam lebih daripada 3,000 Hektar.
                 </p><br>
                 <ul class="list-group" >
                   <li class="list-group-item">Ladang Sungai Kerpai
@@ -119,7 +119,7 @@
                   </ul></li>
                 </ul>
               <br><br>
-              <p>Kesemua ladang-ladang kami telah disahkan Pensijilan Minyak Sawit Mampan Malaysia (<i>Malaysia Sustainable Palm Oil</i> - MSPO)</p>
+              <p>Kesemua ladang-ladang kami telah mendapat Pensijilan Minyak Sawit Mampan Malaysia (<i>Malaysia Sustainable Palm Oil</i> - MSPO)</p>
               </div>       
           </div>
           <div class="col-lg-6">
@@ -144,7 +144,7 @@
                   Dalam usaha untuk meningkatkan penghasilan kelapa domestik, kami turut melibatkan diri di dalam tanaman kelapa di Ladang Kampung Gading, Rompin, Pahang.
                 </p>
                 <p>
-                  Ladang seluas 161 Hektar ini melibatkan pelbagai jenis varieti kelapa seperti MRD, Tacunan, SGG, MATAG F2 dan Tagnanan.
+                  Ladang seluas 161 Hektar ini melibatkan pelbagai jenis varieti kelapa seperti MATAG F2, MRD, Tacunan dan SGG.
                 </p>
               </div>       
           </div>
@@ -167,12 +167,12 @@
               </div>
               <div class="row content">
                 <p>
-                  Nanas merupakan salah satu daripada tanaman kekayaan baharu yang menjadi matlamat untuk kami terokai. Sehingga kini, kami sedang mengusahakan tanaman Nanas MD2 seluas 5 Ekar di dalam Ladang Sungai Kerpai dan akan mengembangkan tanaman tersebut di kawasan lain yang sesuai.
+                  Nanas merupakan salah satu daripada tanaman sumber kekayaan baharu yang menjadi matlamat untuk kami terokai. Sehingga kini, kami sedang mengusahakan plot percubaan tanaman Nanas MD2 seluas 5 Ekar di Ladang Sungai Kerpai dan akan mengembangkan tanaman tersebut di kawasan lain yang sesuai.
                 </p>
               </div>       
           </div>
           <div class="col-lg-6">
-            <img src="assets/img/activity/nanas.jpg" width="100%">
+            <img src="assets/img/activity/nanas-2.jpg" width="100%">
           </div>
         </div>
       </div>
@@ -189,8 +189,7 @@
                 <p>AKUAKULTUR</p>
               </div>
               <div class="row content">
-                <p>Bagi memaksimumkan penggunaan tanah dan menjana pendapatan sampingan, kami melakukan usahasama dengan pihak luar bagi menjalankan ternakan air di kolam-kolam ikan bersebelahan kawasan Ibu Pejabat kami.</p>
-                <p>Pelbagai baka ikan dibiakkan selama 18 bulan sebelum dituai hasilnya.</p>
+                <p>Bagi memaksimumkan penggunaan tanah dan menjana pendapatan sampingan, kami turut menjalankan ternakan air di kolam-kolam ikan bersebelahan kawasan Ibu Pejabat kami.</p>
               </div>       
           </div>
           <div class="col-lg-6">
@@ -211,7 +210,7 @@
                 <p>BERAS GENERASI</p>
               </div>
               <div class="row content">
-                <p>PKPP Agro Sdn. Bhd., dengan usahasama bersama Bukit Raya Sdn. Bhd. turut mengeluarkan produk beras yang dipasarkan dengan nama " Beras Generasi " sebagai produk hiliran kepada aktiviti penanaman padi yang dijalankan oleh pihak PKPP Agro Sdn. Bhd.</p>
+                <p>Dengan konsep <b>"Dari Ladang Ke Meja Hidang"</b>, kami turut mengeluarkan produk beras yang dipasarkan dengan nama <b>"Beras Generasi"</b> sebagai produk hiliran kepada aktiviti penanaman padi yang dijalankan.</p>
 
               </div>       
           </div>
@@ -225,7 +224,7 @@
 
   
   <!-- ======= Agrotourism Section ======= -->
-  <section id="agrotourism"  style=" background-color: #90e0ef;">
+  <section id="agrotourism"  style=" background-color: #ffffff;">
       <div class="container" data-aos="fade-left">        
         <div class="row">
           <div class="col-lg-6">
@@ -234,8 +233,7 @@
                 <p>AGROTOURISM PAYA LAKA</p>
               </div>
               <div class="row content">
-                <p>Bagi memaksimumkan penggunaan tanah dan menjana pendapatan sampingan, kami melakukan usahasama dengan pihak luar bagi menjalankan ternakan air di kolam-kolam ikan bersebelahan kawasan Ibu Pejabat kami.</p>
-                <p>Pelbagai baka ikan dibiakkan selama 18 bulan sebelum dituai hasilnya.</p>
+                <p>Bagi meningkatkan lagi daya tarikan pelancongan di daerah Rompin, Projek Agrotourism Paya Laka dibangunkan di tengah-tengah sawah kami yang menawarkan permandangan yang indah, serta peluang untuk merasai aktiviti penanaman padi tradisional seperti mencedung.</p>
               </div>       
           </div>
           <div class="col-lg-6">

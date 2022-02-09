@@ -99,7 +99,7 @@
           <p>Strategi Korporat</p>
         </div>
         <div class="content" data-aos="fade-up">
-            <ul>
+            <ul class="visionlist">
               <li>Mengutamakan amalan pertanian baik dan pengurusan yang cekap</li>
               <li>Menggunapakai teknologi terkini di samping pengurusan sumber manusia yang bertanggungjawab</li>
               <li>Memaksimakan perolehan daripada sumber yang ada bagi menyokong kelangsungan operasi syarikat</li>
