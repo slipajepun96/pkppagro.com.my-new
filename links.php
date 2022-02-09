@@ -81,7 +81,7 @@
 		</div>             
   </div>
 <br><br>
-<h2 align=center>Pautan Dalaman</h2>
+<h2 align="center">Pautan Dalaman</h2>
   <div class="container ">
     <div class="row row-30 d-flex justify-content-center"> 
       <div class="col-md-2 card text-center">

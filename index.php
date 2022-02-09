@@ -89,39 +89,57 @@
   </section><!-- End Hero -->
 
   <main>
-
-    <!-- ======= About Section ======= -->
-    <br>
-      <div class="container">
-        <div class="row content" data-aos="fade-up">
-          <div class="col-lg-4">
-            <img src="assets/img/kompleks-dan-ladang.JPG" alt="" width="100%" >
-          </div>
-          <div class="col-lg-7 col-sm-12 m-1">            
-            <div class="section-title" data-aos="zoom-out">
-              <h2>TENTANG KAMI</h2>
-              <p>Sejarah Kami</p>
-            </div>
-
-              <p>
-                PKPP Agro Sdn. Bhd. (PKPP Agro), dahulunya dikenali sebagai LKPP Padi Sdn. Bhd. merupakan syarikat Kumpulan Perbadanan Kemajuan Pertanian Negeri Pahang (PKPP), ditubuhkan pada 8 Disember 1994 dengan pegangan ekuiti penuh (100%) oleh PKPP.
-              </p>
-              <br>
-              <p>        
-                Pada awal penubuhannya, PKPP Agro hanya terlibat didalam bidang tanaman padi sahaja di dalam daerah Rompin. Dalam mempelbagaikan aktivitinya, PKPP Agro mula mengorak langkah menceburi tanaman kelapa, perladangan kelapa sawit, <i>agrotourism</i> dan kini, nanas.
-              </p>
-              <br><br>
-          </div>
-        </div>  
-        <div class="row">
-          <div class="col-12"> 
-            <img src="assets/img/abms.png" alt="Ke Arah Pensijilan ISO 37001:2019" width="100%">
-          </div>
+<br>
+<div class="container">
+  <div class="row">
+  <div class="col-lg-6 col-sm-12">
+    <!-- <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img class="d-block w-100" src="assets/img/activity/kelapa.jpg" alt="First slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="assets/img/activity/nanas-2.jpg" alt="Second slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="assets/img/activity/sawit.jpg" alt="Third slide">
         </div>
       </div>
+      <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only"></span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only"></span>
+      </a>
+    </div> -->
+
+    <?php include('assets/slider.php'); ?>
+
+  </div>
+    <div class="col-lg-5 col-sm-12">
+      <div class="content" data-aos="fade-up">         
+        <div class="section-title" data-aos="zoom-out">
+          <h2>TENTANG KAMI</h2>
+          <p>Sejarah Kami</p>
+        </div>
+        <p>PKPP Agro Sdn. Bhd. (PKPP Agro), dahulunya dikenali sebagai LKPP Padi Sdn. Bhd. merupakan syarikat Kumpulan Perbadanan Kemajuan Pertanian Negeri Pahang (PKPP), ditubuhkan pada 8 Disember 1994 dengan pegangan ekuiti penuh (100%) oleh PKPP.</p>
+        <br>
+        <p>Pada awal penubuhannya, PKPP Agro hanya terlibat didalam bidang tanaman padi sahaja di dalam daerah Rompin. Dalam mempelbagaikan aktivitinya, PKPP Agro mula mengorak langkah menceburi tanaman kelapa, perladangan kelapa sawit, <i>agrotourism</i> dan kini, nanas.</p>   
+      </div>  
+    </div>
+  </div>
+</div>
+<br>
       
 
-      <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+      <div class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
               <!-- <img src="assets/img/sustainable.png" class="d-none d-md-block w-100" alt="..."> -->
