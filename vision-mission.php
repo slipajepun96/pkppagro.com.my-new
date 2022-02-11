@@ -55,24 +55,24 @@
   <div class="container">
     <br>
     <div class="row">
-      <div class="col-lg-6">
-        <div class="section-title" data-aos="zoom-out">
+      <div class="col-lg-6" data-aos="fade-down">
+        <div class="section-title">
           <h2></h2>
           <p>Visi</p>
         </div>
-        <div class="content" data-aos="fade-up">
+        <div class="content">
           <p>
               Menyumbang kepada Perbadanan Kemajuan Pertanian Negeri Pahang (PKPP) dalam memajukan industri pertanian di Negeri Pahang
             </p>
         </div>
       </div>
       
-      <div class="col-lg-6 pt-4 pt-lg-0">
-        <div class="section-title" data-aos="zoom-out">
+      <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-down">
+        <div class="section-title">
           <h2></h2>
           <p>Misi</p>
         </div>
-        <div class="content" data-aos="fade-up">
+        <div class="content">
             <ul>
               <li>Menjadi peneraju dalam sektor tanaman makanan</li>
               <li>Melahirkan tenaga pakar sebagai penggerak ekonomi syarikat dan masyarakat</li>
@@ -81,24 +81,24 @@
       </div>
     </div><br><br>
     <div class="row">
-      <div class="col-lg-6">
-        <div class="section-title" data-aos="zoom-out">
+      <div class="col-lg-6" data-aos="fade-up">
+        <div class="section-title" >
           <h2></h2>
           <p>Objektif Korporat</p>
         </div>
-        <div class="content" data-aos="fade-up">
+        <div class="content">
           <p>
               Menjadi antara anak syarikat Perbadanan Kemajuan Pertanian Negeri Pahang (PKPP) yang terpenting, memberi impak positif dan sebagai sumber rujukan utama
           </p>
         </div>
       </div>
       
-      <div class="col-lg-6 pt-4 pt-lg-0">
-        <div class="section-title" data-aos="zoom-out">
+      <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-up">
+        <div class="section-title">
           <h2></h2>
           <p>Strategi Korporat</p>
         </div>
-        <div class="content" data-aos="fade-up">
+        <div class="content">
             <ul class="visionlist">
               <li>Mengutamakan amalan pertanian baik dan pengurusan yang cekap</li>
               <li>Menggunapakai teknologi terkini di samping pengurusan sumber manusia yang bertanggungjawab</li>

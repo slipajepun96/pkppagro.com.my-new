@@ -89,7 +89,7 @@
           <br>
       </div>
       <div class="col-md-2 card text-center">
-          <a href="http://cloud.pkppagro.com.my/owncloud" target="_blank"><img src="assets/img/owncloud.png" width="100%">Owncloud Storage</a>
+          <a href="http://cloud.pkppagro.com.my/owncloud" target="_blank"><img src="assets/img/links/owncloud.png" width="100%">Owncloud Storage</a>
           <br>
       </div>
 

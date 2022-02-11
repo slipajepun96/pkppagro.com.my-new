@@ -60,12 +60,12 @@
     <div class="row">
       <div class="col-md-6 p-1 border">
         <h3 class="text-center">Polisi Anti-Rasuah dan Integriti</h3>
-        <img src="assets/img/integriti/polisi-anti-rasuah-dan-integriti.png" alt="" width="100%">
+        <a href="assets/img/integriti/polisi-anti-rasuah-dan-integriti.pdf" target="_blank"><img src="assets/img/integriti/polisi-anti-rasuah-dan-integriti.png" alt="" width="100%"></a>
         <!-- <embed src="assets/img/integriti/polisi-anti-rasuah-dan-integriti.pdf" type="application/pdf" width="100%" height="500px"> -->
       </div>
       <div class="col-md-6 p-1 border">
         <h3 class="text-center">Polisi Tiada Hadiah</h3>
-        <img src="assets/img/integriti/polisi-tiada-hadiah.png" alt="" width="100%">
+        <a href="assets/img/integriti/polisi-tiada-hadiah.pdf" target="_blank"><img src="assets/img/integriti/polisi-tiada-hadiah.png" alt="" width="100%"></a>
         <!-- <embed src="assets/img/integriti/polisi-anti-rasuah-dan-integriti.pdf" type="application/pdf" width="100%" height="500px"> -->
       </div> 
     </div>
