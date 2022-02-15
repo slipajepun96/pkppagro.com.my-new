@@ -189,7 +189,7 @@
                 <p>AKUAKULTUR</p>
               </div>
               <div class="row content">
-                <p>Bagi memaksimumkan penggunaan tanah dan menjana pendapatan sampingan, kami turut menjalankan ternakan air di kolam-kolam ikan bersebelahan kawasan Ibu Pejabat kami.</p>
+                <p>Bagi memaksimumkan penggunaan tanah dan menjana pendapatan sampingan, kami turut menjalankan ternakan air di kolam-kolam bersebelahan kawasan Ibu Pejabat kami.</p>
               </div>       
           </div>
           <div class="col-lg-6">

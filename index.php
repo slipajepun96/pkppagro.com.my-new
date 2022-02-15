@@ -138,7 +138,7 @@
               <div class="carousel-caption d-md-block">
                 <h3>Komitmen Kelestarian Kumpulan PKPP</h3>
                 <p id="carousel-p" class="d-none d-lg-block">PKPP Agro sebagai ahli Kumpulan Perbadanan Kemajuan Pertanian Negeri Pahang (PKPP) komited untuk melaksanakan pembangunan lestari yang akan memberi impak positif kepada pemegang taruh, syarikat, masyarakat dan alam sekitar.</p>
-                <br><a href="https://ndpe.pkpp.gov.my/"><button class="rounded-pill btn btn-primary mb-1">Lihat Dasar NDPE Kumpulan PKPP &rarr;</button></a>
+                <br><a href="https://ndpe.pkpp.gov.my/"><button class="rounded-pill btn btn-primary mb-1">Lihat Dasar NDPE Kumpulan PKPP <i class="bi bi-box-arrow-up-right"></i></button></a>
               </div>
           </div>
         </div>

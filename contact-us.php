@@ -85,7 +85,7 @@
 				<address> <h6>Ladang PKPP Sri Jelutong,<br>D/A. Ladang PKPP Paloh Hinai <br>26650 Pekan,<br>Pahang Darul Makmur<br><br> Telefon : <a href="tel:+60199180218">019-918 0218</a><br> Emel : <a href="mainto:sri.jelutong@pkppagro.com.my">sri.jelutong@pkppagro.com.my</a><br>	</h6>	</address>
 				<br><a href="https://goo.gl/maps/YfZPn53yQNiYzgQAA" target="_blank"><button class="rounded-pill btn btn-success mb-1">Lokasi Pejabat &rarr;</button></a>
 				<br><a href="https://goo.gl/maps/doA1xbea6co3ZfPL6" target="_blank"><button class="rounded-pill btn btn-warning mb-1">Lokasi Ladang PKPP Sri Jelutong &rarr;</button></a>
-				<br><a href="https://goo.gl/maps/YfZPn53yQNiYzgQAA" target="_blank"><button class="rounded-pill btn btn-warning mb-1">Lokasi Ladang Kg. Pasir &rarr;</button></a>
+				<br><a href="https://goo.gl/maps/aUue34FqT1Q15JZu8" target="_blank"><button class="rounded-pill btn btn-warning mb-1">Lokasi Ladang Kg. Pasir &rarr;</button></a>
 			   </div>
 		</div>
     </section>
