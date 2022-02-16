@@ -42,6 +42,7 @@
           <h2>Lembaga Pengarah</h2>
           <ol>
             <li><a href="index.html">Utama</a></li>
+            <li>Maklumat Korporat</li>
             <li>Lembaga Pengarah</li>
           </ol>
         </div>
