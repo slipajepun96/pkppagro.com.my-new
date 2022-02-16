@@ -41,7 +41,7 @@
           <h2>Pengurusan</h2>
           <ol>
             <li><a href="index.html">Utama</a></li>
-            <li>Tentang Kami</li>
+            <li>Maklumat Korporat</li>
             <li>Pengurusan</li>
           </ol>
         </div>

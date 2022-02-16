@@ -42,6 +42,7 @@
           <h2>Visi & Misi</h2>
           <ol>
             <li><a href="index.php">Utama</a></li>
+            <li>Maklumat Korporat</li>
             <li>Visi & Misi</li>
           </ol>
         </div>
