@@ -36,7 +36,7 @@ $p_id=$_GET['p_id'];
 </head>
 
 <body>
-
+<?php include('fbm.php') ?>
 <?php include('header-inner.php'); ?>
     <!-- ======= Breadcrumbs ======= -->
     <section class="breadcrumbs">
