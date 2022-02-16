@@ -32,7 +32,6 @@
 </head>
 
 <body>
-<?php include('fbm.php') ?>
 <?php include('header-inner.php'); ?>
     <!-- ======= Breadcrumbs ======= -->
     <section class="breadcrumbs">
