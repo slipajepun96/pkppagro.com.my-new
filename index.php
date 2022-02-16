@@ -32,8 +32,8 @@
 </head>
 
 <body>
-
-<?php include('header.php'); ?>
+<?php include('fbm.php');
+ include('header.php'); ?>
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-end align-items-center">

@@ -51,7 +51,7 @@
     </section><!-- End Breadcrumbs -->
   
 <!-- image banner -->
-  <img src="assets/img/page-header.jpg" width="100%">
+  <img src="assets/img/whistle-header.jpg" width="100%">
 
   <div class="container my-2">
     <h2>Saluran Whistleblowing</h2>
@@ -69,7 +69,7 @@
       </div>
       <div class="col-md-3 card text-center border border-success border-3 m-2">
         <div class="my-auto">
-          <h1><i class="bi bi-people-fill"></i></h1>Secara bersemuka dengan<br>Pegawai Integriti,<br> Ibu Pejabat PKPP Agro Sdn. Bhd.
+          <h1><i class="bi bi-people-fill"></i></h1>Secara bersemuka dengan<br><b>Pegawai Integriti</b>,<br> Ibu Pejabat PKPP Agro Sdn. Bhd.
           <br>
         </div>  
       </div>
@@ -104,6 +104,7 @@
       </div> 
     </div>
   </div>
+  
 </div>
  
 

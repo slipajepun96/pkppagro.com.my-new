@@ -65,7 +65,7 @@
                     <div class="carousel-caption d-md-block">
                       <h3>Kelestarian</h3>
                       
-                      <br><a href="mspo.php"><button class="rounded-pill btn btn-primary mb-1">Lihat Dasar MSPO & NDPE &rarr;</button></a>
+                      <br><a href="mspo.php"><button class="rounded-pill btn btn-primary mb-1">Lihat Dasar MSPO & NDPE <i class="bi bi-arrow-right"></i></button></a>
                     </div>
                 </div>
               </div>
@@ -80,7 +80,7 @@
                     <div class="carousel-caption d-md-block">
                       <h3>Integriti</h3>
                       
-                      <br><a href="whistleblowing.php"><button class="rounded-pill btn btn-primary mb-1">Lihat Dasar Integriti &rarr;</button></a>
+                      <br><a href="whistleblowing.php"><button class="rounded-pill btn btn-primary mb-1">Lihat Dasar Integriti<i class="bi bi-arrow-right"></i></button></a>
                     </div>
                 </div>
               </div>
@@ -101,7 +101,7 @@
               <div class="carousel-caption d-md-block">
                 <h3>Blow the whistle!</h3>
                 <p id="carousel-p" class="d-none d-lg-block">Laporkan jika anda mengesyaki berlakunya salah laku atau pelanggaran etika, prinsip integriti dan undang-undang </p>
-                <br><a href="whistleblowing.php"><button class="rounded-pill btn btn-primary mb-1">Saluran Whistleblowing &rarr;</button></a>
+                <br><a href="whistleblowing.php"><button class="rounded-pill btn btn-primary mb-1">Saluran Whistleblowing <i class="bi bi-arrow-right"></i></button></a>
               </div>
           </div>
         </div>   
