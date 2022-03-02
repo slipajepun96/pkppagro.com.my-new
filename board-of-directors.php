@@ -70,6 +70,7 @@
               </div>
               <div class="member-info">
                 <h4>Dato' Suhaimi bin Mohd Yunus</h4>
+                <h6>DSAP., DIMP., SMP., AAP., AMP.</h6>
                 <span>Pengerusi</span>
               </div>
             </div>

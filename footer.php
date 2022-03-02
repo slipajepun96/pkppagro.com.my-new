@@ -23,9 +23,12 @@
 		  
 		  <div class="col-md-7 d-none d-lg-block">
               
-                <dt><h5><b>Pautan Pantas</b></h5></dt>
+              <dt><h5><b>Pautan Pantas</b></h5></dt>
+              <ul>
                 <li><a href="https://pkppagro.com.my:2096/?">Webmail</li>
-                <li><a href="whistleblowing.php">Pendedahan Maklumat <i>(WHISTLEBLOWING)</i></a></li></ul>
+                <li><a href="whistleblowing.php">Integriti & <i>Whiteblowing</i></a></li>
+                <li><a href="https://www.pkppagro.com.my/ipamis.php">Sistem IPAMIS</a></li>
+              </ul>
               
              
               
@@ -37,7 +40,7 @@
                 <dt><h5><b>PKPP Agro Sdn. Bhd.</b></h5> 199401040896(326583-U)</dt>
                 <dd>KM 4 Jalan Selendang, 26800 Kuala Rompin, Pahang Darul Makmur</dd>
               </dl>
-              <dl class="contact-list">
+              <dl class="contact-list"> 
                 <dt>Emel :</dt>
                 <dd><a href="mailto:pkppagro@gmail.com">pkppagro@gmail.com</a></dd>
               </dl>
