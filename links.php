@@ -52,15 +52,15 @@
   <img src="assets/img/kompleks-dan-ladang-header.jpg" width="100%">
   <br><br><h2 align=center>Pautan Luar</h2>
   <div class="container">
-  <div class="row row-30"> 
-		<div class="col-md-2 card text-center">
-				<br><a href="http://www.pkpp.gov.my" target="_blank"><img src="assets/img/links/pkpp.png" width=100><br>Perbadanan Kemajuan Pertanian Negeri Pahang (PKPP)</a>
-				<br>
-          </div>
-		  <div class="col-md-2 card text-center">
+  <div class="row row-30 justify-content-center">
+		  <div class="col-md-2  card text-center">
 				<br><a href="http://www.moa.gov.my" target="_blank"><img src="assets/img/links/moa.png" width=135><br>Kementerian Pertanian Dan Industri Asas Tani (MOA)</a>
 				<br>
-          </div>
+      </div>
+      <div class="col-md-2  card text-center">
+				<br><a href="http://www.mpic.gov.my" target="_blank"><img src="assets/img/links/moa.png" width=135><br>Kementerian Perusahaan Perladangan dan Komoditi (MPIC)</a>
+				<br>
+      </div>
 		  <div class="col-md-2 card text-center">
 				<br><a href="http://agri.pahang.gov.my" target="_blank"><img src="assets/img/links/jabatan-pertanian.png" width=140><br>Jabatan Pertanian Negeri Pahang</a>
 				<br>
@@ -78,7 +78,32 @@
 				<br>
       </div>
 		</div>             
+<br><br>
+    <h2 align=center>PKPP & Anak Syarikat</h2>
+  <div class="row row-30 justify-content-center"> 
+		  <div class="col-md-2 card text-center">
+				<br><a href="http://www.pkpp.gov.my" target="_blank"><img src="assets/img/links/pkpp.png" width=100><br>Perbadanan Kemajuan Pertanian Negeri Pahang (PKPP)</a>
+				<br>
+      </div>
+		  <div class="col-md-2 card text-center">
+				<br><a href="http://www.lcsb.com.my" target="_blank"><img src="assets/img/links/lkpp-corporation.png" width=135><br>LKPP Corporation Sdn. Bhd.</a>
+				<br>
+          </div>
+		  <div class="col-md-2 card text-center">
+				<br><a href="http://www.pkppplantation.com.my" target="_blank"><img src="assets/img/links/pkpp-plantation.png" width=140><br>PKPP Plantation Sdn. Bhd.</a>
+				<br>
+          </div>
+		   <div class="col-md-2 card text-center">
+				<br><a href="http://www.lkppproperty.com.my" target="_blank"><img src="assets/img/links/lkpp-property.png" width=140><br>LKPP Property Sdn. Bhd.</a>
+				<br>
+          </div>
+		  <div class="col-md-2 card text-center">
+				<br><a href="http://www.derhu.com.my" target="_blank"><img src="assets/img/links/de-rhu.png" width=160><br><br>De Rhu Beach Resort (Kenanga Utuh Sdn. Bhd.)</a>
+				<br>
+          </div>
+		</div>             
   </div>
+
 <br><br>
 <h2 align="center">Pautan Dalaman</h2>
   <div class="container ">

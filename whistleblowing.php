@@ -52,39 +52,6 @@
   
 <!-- image banner -->
   <img src="assets/img/whistle-header.jpg" width="100%">
-
-  <div class="container my-2">
-    <h2>Saluran Whistleblowing</h2>
-    <hr>
-    <p>PKPP Agro Sdn. Bhd. komited untuk mencapai dan mengekalkan standard etika kerja yang tertinggi semasa menjalankan urusan perniagaan sesuai dengan amalan pengurusan korporat terbaik dan prinsip Integriti, Governans dan Anti-Rasuah yang dipegang syarikat.</p>
-    <br>
-    <p>PKPP Agro menggalakkan pekerja dan kakitangan untuk melaporkan sebarang syak tentang kemungkinan pelanggaran etika dan prinsip Integriti, penyelewengan dalam urusan kewangan , ketidakpatuhan undang-undang dan peraturan tempatan dan negara, ketidakpatuhan polisi dan prosedur-prosedur atau apa-apa penyelewengan yang berlaku di dalam PKPP Agro Sdn. Bhd. dengan menggunakan saluran-saluran berikut :</p>
-<br>
-    <div class="row row-30 d-flex justify-content-evenly whistleblowing"> 
-      <div class="col-md-3 card text-center border border-success border-3 m-2">
-        <div class="my-auto">
-          <h1><i class="bi bi-envelope"></i></h1>Emel ke <br><a href="mailto:integrity@pkppagro.com.my">integrity@pkppagro.com.my</a>
-          <br>
-        </div>
-      </div>
-      <div class="col-md-3 card text-center border border-success border-3 m-2">
-        <div class="my-auto">
-          <h1><i class="bi bi-people-fill"></i></h1>Secara bersemuka dengan<br><b>Pegawai Integriti</b>,<br> Ibu Pejabat PKPP Agro Sdn. Bhd.
-          <br>
-        </div>  
-      </div>
-      <div class="col-md-3 card text-center  border border-success border-3 m-2">
-        <div class="my-auto">
-          <h1><i class="bi bi-mailbox"></i></h1>Secara bersurat ke : <br><br>Pegawai Integriti <br>PKPP Agro Sdn. Bhd.<br> KM4 Jalan Selendang,<br>26800 Kuala Rompin,<br>Pahang Darul Makmur <br>
-          <br>
-        </div>
-      </div>
-
-    </div>             
-  </div>
-
-  </div>
-<hr>
   <div class="container">
   <h2>Polisi-polisi Integriti</h2>
   <hr>
@@ -116,6 +83,39 @@
     </div>
   
 </div>
+  <hr>
+  <div class="container my-2">
+    <h2>Saluran Whistleblowing</h2>
+    <hr>
+    <p>PKPP Agro Sdn. Bhd. komited untuk mencapai dan mengekalkan standard etika kerja yang tertinggi semasa menjalankan urusan perniagaan sesuai dengan amalan pengurusan korporat terbaik dan prinsip Integriti, Governans dan Anti-Rasuah yang dipegang syarikat.</p>
+    <br>
+    <p>PKPP Agro menggalakkan pekerja dan kakitangan untuk melaporkan sebarang syak tentang kemungkinan pelanggaran etika dan prinsip integriti, penyelewengan dalam urusan kewangan , ketidakpatuhan undang-undang dan peraturan tempatan dan negara, ketidakpatuhan polisi dan prosedur-prosedur atau apa-apa penyelewengan yang berlaku di dalam PKPP Agro Sdn. Bhd. dengan menggunakan saluran-saluran berikut :</p>
+<br>
+    <div class="row row-30 d-flex justify-content-evenly whistleblowing"> 
+      <div class="col-md-3 card text-center border border-success border-3 m-2">
+        <div class="my-auto">
+          <h1><i class="bi bi-envelope"></i></h1>Emel ke <br><a href="mailto:integrity@pkppagro.com.my">integrity@pkppagro.com.my</a>
+          <br>
+        </div>
+      </div>
+      <div class="col-md-3 card text-center border border-success border-3 m-2">
+        <div class="my-auto">
+          <h1><i class="bi bi-people-fill"></i></h1>Secara bersemuka dengan<br><b>Pegawai Integriti</b>,<br> Ibu Pejabat PKPP Agro Sdn. Bhd.
+          <br>
+        </div>  
+      </div>
+      <div class="col-md-3 card text-center  border border-success border-3 m-2">
+        <div class="my-auto">
+          <h1><i class="bi bi-mailbox"></i></h1>Secara bersurat ke : <br><br>Pegawai Integriti <br>PKPP Agro Sdn. Bhd.<br> KM4 Jalan Selendang,<br>26800 Kuala Rompin,<br>Pahang Darul Makmur <br>
+          <br>
+        </div>
+      </div>
+
+    </div>             
+  </div>
+
+  </div>
+  
  
 
 

@@ -53,63 +53,72 @@
 <!-- image banner -->
   <img src="assets/img/paddy-header.jpg" width="100%">
 
+
   <div class="container">
     <br>
     <div class="row">
-      <div class="col-lg-6" data-aos="fade-down">
-        <div class="section-title">
-          <h2></h2>
-          <p>Visi</p>
-        </div>
-        <div class="content">
-          <p>
-              Menyumbang kepada Perbadanan Kemajuan Pertanian Negeri Pahang (PKPP) dalam memajukan industri pertanian di Negeri Pahang
+      <div class="col-lg-4" data-aos="fade-up">
+        <img src="assets/img/vision activity img.png" alt="" width="100%">
+      </div>
+      <div class="col-lg-8" data-aos="fade-down">
+        <div class="row">
+          <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-down">
+            <div class="section-title">
+              <h2></h2>
+              <p>Visi</p>
+            </div>
+            <div class="content">
+              <p>
+                Menyumbang kepada Perbadanan Kemajuan Pertanian Negeri Pahang (PKPP) dalam memajukan industri pertanian di Negeri Pahang
+              </p>
+            </div>
+          </div>
+      
+          <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-down">
+            <div class="section-title">
+              <h2></h2>
+              <p>Misi</p>
+            </div>
+            <div class="content">
+                <ul>
+                  <li>Menjadi peneraju dalam sektor tanaman makanan</li>
+                  <li>Melahirkan tenaga pakar sebagai penggerak ekonomi syarikat dan masyarakat</li>
+                </ul>
+            </div>
+          </div>
+        </div><br><br>
+      <div class="row">
+        <div class="col-lg-6" data-aos="fade-up">
+          <div class="section-title" >
+            <h2></h2>
+            <p>Objektif Korporat</p>
+          </div>
+          <div class="content">
+            <p>
+                Menjadi antara anak syarikat Perbadanan Kemajuan Pertanian Negeri Pahang (PKPP) yang terpenting, memberi impak positif dan sebagai sumber rujukan utama
             </p>
+          </div>
         </div>
-      </div>
-      
-      <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-down">
-        <div class="section-title">
-          <h2></h2>
-          <p>Misi</p>
-        </div>
-        <div class="content">
-            <ul>
-              <li>Menjadi peneraju dalam sektor tanaman makanan</li>
-              <li>Melahirkan tenaga pakar sebagai penggerak ekonomi syarikat dan masyarakat</li>
-            </ul>
-        </div>
-      </div>
-    </div><br><br>
-    <div class="row">
-      <div class="col-lg-6" data-aos="fade-up">
-        <div class="section-title" >
-          <h2></h2>
-          <p>Objektif Korporat</p>
-        </div>
-        <div class="content">
-          <p>
-              Menjadi antara anak syarikat Perbadanan Kemajuan Pertanian Negeri Pahang (PKPP) yang terpenting, memberi impak positif dan sebagai sumber rujukan utama
-          </p>
-        </div>
-      </div>
-      
-      <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-up">
-        <div class="section-title">
-          <h2></h2>
-          <p>Strategi Korporat</p>
-        </div>
-        <div class="content">
-            <ul class="visionlist">
-              <li>Mengutamakan amalan pertanian baik dan pengurusan yang cekap</li>
-              <li>Menggunapakai teknologi terkini di samping pengurusan sumber manusia yang bertanggungjawab</li>
-              <li>Memaksimakan perolehan daripada sumber yang ada bagi menyokong kelangsungan operasi syarikat</li>
-              <li>Mewujudkan program yang seimbang untuk perkembangan perniagaan dan pembangunan sosial</li>
-            </ul>
+        
+        <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-up">
+          <div class="section-title">
+            <h2></h2>
+            <p>Strategi Korporat</p>
+          </div>
+          <div class="content">
+              <ul class="visionlist">
+                <li>Mengutamakan amalan pertanian baik dan pengurusan yang cekap</li>
+                <li>Menggunapakai teknologi terkini di samping pengurusan sumber manusia yang bertanggungjawab</li>
+                <li>Memaksimakan perolehan daripada sumber yang ada bagi menyokong kelangsungan operasi syarikat</li>
+                <li>Mewujudkan program yang seimbang untuk perkembangan perniagaan dan pembangunan sosial</li>
+              </ul>
+          </div>
         </div>
       </div>
     </div>
   </div>
+</div>
+
 
    
 </main><!-- End #main -->
