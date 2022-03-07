@@ -124,28 +124,26 @@
 <br>
 <div class="container">
   <div class="row">
-  <div class="col-lg-6 col-sm-12">
-
-  <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-  </div>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="assets/img/activity/sawit.jpg" class="d-block w-100" alt="...">
+    <div class="col-lg-6 col-sm-12">
+      <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="assets/img/activity/sawit.jpg" class="d-block w-100" alt="...">
+          </div>
+          <div class="carousel-item">
+            <img src="assets/img/activity/kelapa.jpg" class="d-block w-100" alt="...">
+          </div>
+          <div class="carousel-item">
+            <img src="assets/img/activity/nanas-2.jpg" class="d-block w-100" alt="...">
+          </div>
+        </div>
+      </div>
     </div>
-    <div class="carousel-item">
-      <img src="assets/img/activity/kelapa.jpg" class="d-block w-100" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="assets/img/activity/nanas-2.jpg" class="d-block w-100" alt="...">
-    </div>
-  </div>
-</div>
-
-  </div>
     <div class="col-lg-5 col-sm-12">
       <div class="content" data-aos="fade-up">         
         <div class="section-title" data-aos="zoom-out">
@@ -156,6 +154,17 @@
         <br>
         <p>Pada awal penubuhannya, PKPP Agro hanya terlibat didalam bidang tanaman padi sahaja di dalam daerah Rompin. Dalam mempelbagaikan aktivitinya, PKPP Agro mula mengorak langkah menceburi tanaman kelapa, perladangan kelapa sawit, <i>agrotourism</i> dan kini, nanas.</p>   
       </div>  
+    </div>  
+  </div>
+  <hr><br>
+  <div class="row">
+    <div class="col-lg-6" style=" background-color: #E5E5E5;">
+    <br>
+      <div class="section-title" data-aos="zoom-out">
+          <h2>KOMODITI</h2>
+          <p>HARGA HARIAN MINYAK SAWIT MENTAH</p>
+        </div>
+      <iframe class="wrapper" height="400px" width="100%" src="https://bepi.mpob.gov.my/admin2/chart_cpomsia_mini.php"> </iframe>
     </div>
   </div>
 </div>
