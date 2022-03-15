@@ -63,8 +63,8 @@
           <a class="nav-link scrollto" href="#kelapa"><button class="rounded-pill btn btn-success mb-1">Kelapa</button></a>
           <a class="nav-link scrollto" href="#nanas"><button class="rounded-pill btn btn-success mb-1">Nanas</button></a>
           <a class="nav-link scrollto" href="#akuakultur"><button class="rounded-pill btn btn-success mb-1">Akuakultur</button></a>
-          <a class="nav-link scrollto" href="#berasgenerasi"><button class="rounded-pill btn btn-success mb-1">Beras Generasi</button></a>
           <a class="nav-link scrollto" href="#agrotourism"><button class="rounded-pill btn btn-success mb-1">Agrotourism</button></a>
+          <a class="nav-link scrollto" href="#berasgenerasi"><button class="rounded-pill btn btn-success mb-1">Beras Generasi</button></a>
       </div>
     </div>    <br>
    
@@ -81,7 +81,9 @@
               </div>
               <div class="row content">
                 <p>
-                  Sejak awal penubuhan pada tahun 1994, kami terlibat dalam tanaman padi di sawah seluas 618 Hektar yang terletak daerah Rompin, Pahang.
+                  <!-- Sejak awal penubuhan pada tahun 1994, kami terlibat dalam tanaman padi di sawah seluas 618 Hektar yang terletak daerah Rompin, Pahang. -->
+
+                  Pengurusan estet padi di Paya Laka, Mukim Pontian, Rompin, Pahang.
                 </p>
               </div>       
           </div>
@@ -104,24 +106,24 @@
               </div>
               <div class="content">
                 <p>
-                  Kami turut terlibat dalam tanaman kelapa sawit dengan menguruskan ladang-ladang sekitar daerah Rompin & Pekan dengan jumlah keluasan bertanam lebih daripada 3,000 Hektar.
+                  <!-- Kami turut terlibat dalam tanaman kelapa sawit dengan menguruskan ladang-ladang sekitar daerah Rompin & Pekan dengan jumlah keluasan bertanam lebih daripada 3,000 Hektar. -->
                 </p><br>
                 <ul class="list-group" >
-                  <li class="list-group-item">Ladang Sungai Kerpai
+                  <li class="list-group-item">1. Ladang Sungai Kerpai
                   <ul>
                     <li>Ladang Koperasi Sepayang</li>
                   </ul></li>
-                  <li class="list-group-item">Ladang PKPP Paloh Hinai
+                  <li class="list-group-item">2. Ladang PKPP Paloh Hinai
                   <ul>
                     <li>Ladang Koperasi Sri Inai</li>
                   </ul></li>
-                  <li class="list-group-item">Ladang PKPP Sri Jelutong
+                  <li class="list-group-item">3. Ladang PKPP Sri Jelutong
                   <ul>
-                    <li>Ladang Kampung Pasir 1</li>
+                    <li>Ladang Kampung Pasir </li>
                   </ul></li>
                 </ul>
               <br><br>
-              <p>Kesemua ladang-ladang kami telah mendapat Pensijilan Minyak Sawit Mampan Malaysia (<i>Malaysia Sustainable Palm Oil</i> - MSPO)</p>
+              <!-- <p>Kesemua ladang-ladang kami telah mendapat Pensijilan Minyak Sawit Mampan Malaysia (<i>Malaysia Sustainable Palm Oil</i> - MSPO)</p> -->
               </div>       
           </div>
           <div class="col-lg-6">
@@ -143,11 +145,9 @@
               </div>
               <div class="row content">
                 <p>
-                  Dalam usaha untuk meningkatkan penghasilan kelapa domestik, kami turut melibatkan diri di dalam tanaman kelapa di Ladang Kampung Gading, Rompin, Pahang.
+                  Ladang kelapa di Kampung Gading, Rompin, Pahang.
                 </p>
-                <p>
-                  Ladang seluas 161 Hektar ini melibatkan pelbagai jenis varieti kelapa seperti MATAG F2, MRD, Tacunan dan SGG.
-                </p>
+            
               </div>       
           </div>
           <div class="col-lg-6">
@@ -168,9 +168,12 @@
                 <p>NANAS</p>
               </div>
               <div class="row content">
-                <p>
-                  Nanas merupakan salah satu daripada tanaman sumber kekayaan baharu yang menjadi matlamat untuk kami terokai. Sehingga kini, kami sedang mengusahakan plot percubaan tanaman Nanas MD2 seluas 5 Ekar di Ladang Sungai Kerpai dan akan mengembangkan tanaman tersebut di kawasan lain yang sesuai.
-                </p>
+              <ul class="list-group" >
+                  <li class="list-group-item">Ladang Sungai Kerpai (Plot Percubaan)</li>
+                  <li class="list-group-item">Ladang PKPP Paloh Hinai (Plot Percubaan)</li>
+                  </ol>
+                 <!--lph  lsj plot percubaan  -->
+                <!-- Nanas merupakan salah satu daripada tanaman sumber kekayaan baharu yang menjadi matlamat untuk kami terokai. Sehingga kini, kami sedang mengusahakan plot percubaan tanaman Nanas MD2 seluas 5 Ekar di Ladang Sungai Kerpai dan akan mengembangkan tanaman tersebut di kawasan lain yang sesuai. -->
               </div>       
           </div>
           <div class="col-lg-6">
@@ -191,7 +194,10 @@
                 <p>AKUAKULTUR</p>
               </div>
               <div class="row content">
-                <p>Bagi memaksimumkan penggunaan tanah dan menjana pendapatan sampingan, kami turut menjalankan ternakan air di kolam-kolam bersebelahan kawasan Ibu Pejabat kami.</p>
+                <ol>
+                  <li>Ladang Sungai Kerpai</li>
+                </ol>
+                <!-- lsk <p>Bagi memaksimumkan penggunaan tanah dan menjana pendapatan sampingan, kami turut menjalankan ternakan air di kolam-kolam bersebelahan kawasan Ibu Pejabat kami.</p> -->
               </div>       
           </div>
           <div class="col-lg-6">
@@ -202,27 +208,7 @@
     </section>
   <!-- End Section -->
 
-  <!-- ======= Beras Generasi Section ======= -->
-  <section id="berasgenerasi"  style=" background-color: #ffcb69;">
-      <div class="container" data-aos="fade-right">        
-        <div class="row">
-          <div class="col-lg-6">
-              <div class="section-title">
-                <h2>AKTIVITI KAMI</h2>
-                <p>BERAS GENERASI</p>
-              </div>
-              <div class="row content">
-                <p>Dengan konsep <b>"Dari Ladang Ke Meja Hidang"</b>, kami turut mengeluarkan produk beras yang dipasarkan dengan nama <b>"Beras Generasi"</b> sebagai produk hiliran kepada aktiviti penanaman padi yang dijalankan.</p>
-
-              </div>       
-          </div>
-          <div class="col-lg-6">
-            <img src="assets/img/activity/beras.jpg" width="100%">
-          </div>
-        </div>
-      </div>
-    </section>
-  <!-- End Section -->
+ 
 
   
   <!-- ======= Agrotourism Section ======= -->
@@ -240,6 +226,28 @@
           </div>
           <div class="col-lg-6">
             <img src="assets/img/activity/agrotourism.png" width="100%">
+          </div>
+        </div>
+      </div>
+    </section>
+  <!-- End Section -->
+
+   <!-- ======= Beras Generasi Section ======= -->
+   <section id="berasgenerasi"  style=" background-color: #ffcb69;">
+      <div class="container" data-aos="fade-right">        
+        <div class="row">
+          <div class="col-lg-6">
+              <div class="section-title">
+                <h2>AKTIVITI KAMI</h2>
+                <p>BERAS GENERASI</p>
+              </div>
+              <div class="row content">
+                <p>Dengan konsep <b>"Dari Ladang Ke Meja Hidang"</b>, kami turut mengeluarkan produk beras yang dipasarkan dengan nama <b>"Beras Generasi"</b> sebagai produk hiliran kepada aktiviti penanaman padi yang dijalankan.</p>
+
+              </div>       
+          </div>
+          <div class="col-lg-6">
+            <img src="assets/img/activity/beras.jpg" width="100%">
           </div>
         </div>
       </div>

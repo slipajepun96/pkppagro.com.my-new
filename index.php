@@ -156,8 +156,7 @@
       </div>  
     </div>  
   </div>
-  <hr><br>
-  <div class="row">
+  <!-- <div class="row">
     <div class="col-lg-6" style=" background-color: #E5E5E5;">
     <br>
       <div class="section-title" data-aos="zoom-out">
@@ -166,7 +165,7 @@
         </div>
       <iframe class="wrapper" height="400px" width="100%" src="https://bepi.mpob.gov.my/admin2/chart_cpomsia_mini.php"> </iframe>
     </div>
-  </div>
+  </div> -->
 </div>
 <br>
       

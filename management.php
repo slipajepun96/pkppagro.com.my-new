@@ -59,7 +59,7 @@
 
         <div class="section-title" data-aos="zoom-out">
           <h2></h2>
-          <p>Pengurusan Kanan</p>
+          <p>Pengurusan Ibu Pejabat</p>
         </div>
           <div class="row mgmtrow justify-content-center">
 
@@ -147,7 +147,7 @@
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member" data-aos="fade-up" data-aos-delay="100">
                 <div class="member-img">
-                  <img src="assets/img/management_image/default.jpg" class="img-fluid" alt="">
+                  <img src="assets/img/management_image/yusri.png" class="img-fluid" alt="">
                 </div>
                 <div class="member-info">
                   <h4>Encik Yusri bin Yusoff</h4>
@@ -159,7 +159,7 @@
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="assets/img/management_image/default.jpg" class="img-fluid" alt="">
+                <img src="assets/img/management_image/aimannajmi.png" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Encik Aiman Najmi bin Abd Razak</h4>
@@ -193,7 +193,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="assets/img/management_image/default.jpg" class="img-fluid" alt="">
+                <img src="assets/img/management_image/mukhairi.png" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Encik Mohd. Mukhairi bin Osman</h4>
@@ -214,10 +214,10 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="assets/img/management_image/default.jpg" class="img-fluid" alt="">
+                <img src="assets/img/management_image/faiz.png" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Encik Mohd. Faiz bin Osman</h4>
+                <h4>Encik Mohd. Faiz bin Othman</h4>
                 <span>Pegawai Penjaga</span>
               </div>
             </div>

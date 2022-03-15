@@ -66,7 +66,7 @@
 				<br>
           </div>
 		   <div class="col-md-2 card text-center">
-				<br><a href="http://www.pahang.gov.my" target="_blank"><img src="assets/img/links/suk_pahang.png" width=92><br>Setiausaha Kerajaan Negeri Pahang (SUK Pahang)</a>
+				<br><a href="http://www.pahang.gov.my" target="_blank"><img src="assets/img/links/suk_pahang.png" width=92><br>Setiausaha Kerajaan Negeri Pahang <br> (SUK Pahang)</a>
 				<br>
           </div>
 		  <div class="col-md-2 card text-center">
@@ -79,14 +79,14 @@
       </div>
 		</div>             
 <br><br>
-    <h2 align=center>PKPP & Anak Syarikat</h2>
+    <h2 align=center>PKPP & Anak Syarikat PKPP</h2>
   <div class="row row-30 justify-content-center"> 
 		  <div class="col-md-2 card text-center">
 				<br><a href="http://www.pkpp.gov.my" target="_blank"><img src="assets/img/links/pkpp.png" width=100><br>Perbadanan Kemajuan Pertanian Negeri Pahang (PKPP)</a>
 				<br>
       </div>
 		  <div class="col-md-2 card text-center">
-				<br><a href="http://www.lcsb.com.my" target="_blank"><img src="assets/img/links/lkpp-corporation.png" width=135><br>LKPP Corporation Sdn. Bhd.</a>
+				<br><a href="http://www.lcsb.com.my" target="_blank"><img src="assets/img/links/lkpp-corporation.png" width=135><br>LKPP Corporation<br> Sdn. Bhd.</a>
 				<br>
           </div>
 		  <div class="col-md-2 card text-center">
