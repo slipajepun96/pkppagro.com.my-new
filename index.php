@@ -148,7 +148,7 @@
     <div class="col-lg-5 col-sm-12">
       <div class="content" data-aos="fade-up">         
         <div class="section-title" data-aos="zoom-out">
-          <h2>TENTANG KAMI</h2>
+          <!-- <h2>TENTANG KAMI</h2> -->
           <p>Sejarah Kami</p>
         </div>
         <p>PKPP Agro Sdn. Bhd. (PKPP Agro), dahulunya dikenali sebagai LKPP Padi Sdn. Bhd. merupakan anak syarikat Perbadanan Kemajuan Pertanian Negeri Pahang (PKPP), ditubuhkan pada 8 Disember 1994 dengan pegangan ekuiti penuh (100%) oleh PKPP.</p>
