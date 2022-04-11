@@ -133,14 +133,15 @@
         </div>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="assets/img/activity/sawit.jpg" class="d-block w-100" alt="...">
+            <img src="assets/img/activity/sawit.jpg" class="d-block w-100" alt="..."><br>
           </div>
           <div class="carousel-item">
-            <img src="assets/img/activity/kelapa.jpg" class="d-block w-100" alt="...">
+            <img src="assets/img/activity/kelapa.jpg" class="d-block w-100" alt="..."><br>
           </div>
           <div class="carousel-item">
-            <img src="assets/img/activity/nanas-2.jpg" class="d-block w-100" alt="...">
+            <img src="assets/img/activity/nanas-2.jpg" class="d-block w-100" alt="..."><br>
           </div>
+        
         </div>
       </div>
     </div>
@@ -150,9 +151,9 @@
           <h2>TENTANG KAMI</h2>
           <p>Sejarah Kami</p>
         </div>
-        <p>PKPP Agro Sdn. Bhd. (PKPP Agro), dahulunya dikenali sebagai LKPP Padi Sdn. Bhd. merupakan syarikat Kumpulan Perbadanan Kemajuan Pertanian Negeri Pahang (PKPP), ditubuhkan pada 8 Disember 1994 dengan pegangan ekuiti penuh (100%) oleh PKPP.</p>
+        <p>PKPP Agro Sdn. Bhd. (PKPP Agro), dahulunya dikenali sebagai LKPP Padi Sdn. Bhd. merupakan anak syarikat Perbadanan Kemajuan Pertanian Negeri Pahang (PKPP), ditubuhkan pada 8 Disember 1994 dengan pegangan ekuiti penuh (100%) oleh PKPP.</p>
         <br>
-        <p>Pada awal penubuhannya, PKPP Agro hanya terlibat didalam bidang tanaman padi sahaja di dalam daerah Rompin. Dalam mempelbagaikan aktivitinya, PKPP Agro mula mengorak langkah menceburi tanaman kelapa, perladangan kelapa sawit, <i>agrotourism</i> dan kini, nanas.</p>   
+        <p>Pada awal penubuhannya, PKPP Agro hanya terlibat didalam bidang tanaman padi sahaja di dalam daerah Rompin. Dalam mempelbagaikan aktivitinya, PKPP Agro mula mengorak langkah menceburi tanaman kelapa sawit, kelapa, <i>agrotourism</i> dan nanas.</p>   
       </div>  
     </div>  
   </div>
@@ -177,7 +178,7 @@
               <img src="assets/img/s.png" class="w-100 " alt="...">
               <div class="carousel-caption d-md-block">
                 <h3>Komitmen Kelestarian Kumpulan PKPP</h3>
-                <p id="carousel-p" class="d-none d-lg-block">PKPP Agro sebagai ahli Kumpulan Perbadanan Kemajuan Pertanian Negeri Pahang (PKPP) komited untuk melaksanakan pembangunan lestari yang akan memberi impak positif kepada pemegang taruh, syarikat, masyarakat dan alam sekitar.</p>
+                <p id="carousel-p" class="d-none d-lg-block">PKPP Agro sebagai anak syarikat Perbadanan Kemajuan Pertanian Negeri Pahang (PKPP) komited untuk melaksanakan pembangunan lestari yang akan memberi impak positif kepada pemegang taruh, syarikat, masyarakat dan alam sekitar.</p>
                 <br><a href="https://ndpe.pkpp.gov.my/"><button class="rounded-pill btn btn-primary mb-1">Lihat Dasar NDPE Kumpulan PKPP <i class="bi bi-box-arrow-up-right"></i></button></a>
               </div>
           </div>

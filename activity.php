@@ -63,6 +63,7 @@
           <a class="nav-link scrollto" href="#kelapa"><button class="rounded-pill btn btn-success mb-1">Kelapa</button></a>
           <a class="nav-link scrollto" href="#nanas"><button class="rounded-pill btn btn-success mb-1">Nanas</button></a>
           <a class="nav-link scrollto" href="#akuakultur"><button class="rounded-pill btn btn-success mb-1">Akuakultur</button></a>
+          <a class="nav-link scrollto" href="#ternakanintegrasi"><button class="rounded-pill btn btn-success mb-1">Ternakan Integrasi</button></a>
           <a class="nav-link scrollto" href="#agrotourism"><button class="rounded-pill btn btn-success mb-1">Agrotourism</button></a>
           <a class="nav-link scrollto" href="#berasgenerasi"><button class="rounded-pill btn btn-success mb-1">Beras Generasi</button></a>
       </div>
@@ -108,7 +109,16 @@
                 <p>
                   <!-- Kami turut terlibat dalam tanaman kelapa sawit dengan menguruskan ladang-ladang sekitar daerah Rompin & Pekan dengan jumlah keluasan bertanam lebih daripada 3,000 Hektar. -->
                 </p><br>
-                <ul class="list-group" >
+                <p>
+                  1. Ladang Sungai Kerpai<br>
+                  &nbsp;&nbsp;<i class='bx bx-subdirectory-right'></i>Ladang Koperasi Sepayang<br>
+                  &nbsp;&nbsp;<i class='bx bx-subdirectory-right'></i>Ladang Sungai Laka<br><br>
+                  2. Ladang PKPP Paloh Hinai<br>
+                  &nbsp;&nbsp;<i class='bx bx-subdirectory-right'></i>Ladang Koperasi Sri Inai<br><br>
+                  3. Ladang PKPP Sri Jelutong<br>
+                  &nbsp;&nbsp;<i class='bx bx-subdirectory-right'></i>Ladang Kampung Pasir<br>
+                </p>
+                <!-- <ul class="list-group" >
                   <li class="list-group-item">1. Ladang Sungai Kerpai
                   <ul>
                     <li>Ladang Koperasi Sepayang</li>
@@ -122,7 +132,7 @@
                     <li>Ladang Kampung Pasir </li>
                   </ul></li>
                 </ul>
-              <br><br>
+              <br><br> -->
               <!-- <p>Kesemua ladang-ladang kami telah mendapat Pensijilan Minyak Sawit Mampan Malaysia (<i>Malaysia Sustainable Palm Oil</i> - MSPO)</p> -->
               </div>       
           </div>
@@ -168,10 +178,14 @@
                 <p>NANAS</p>
               </div>
               <div class="row content">
-              <ul class="list-group" >
+                <p>Plot percubaan tanaman nanas di : <br>
+                &nbsp;&nbsp;<i class='bx bx-subdirectory-right'></i>Ladang Sungai Kerpai <br>
+                &nbsp;&nbsp;<i class='bx bx-subdirectory-right'></i>Ladang PKPP Paloh Hinai
+                </p>
+              <!-- <ul class="list-group" >
                   <li class="list-group-item">Ladang Sungai Kerpai (Plot Percubaan)</li>
                   <li class="list-group-item">Ladang PKPP Paloh Hinai (Plot Percubaan)</li>
-                  </ol>
+                  </ol> -->
                  <!--lph  lsj plot percubaan  -->
                 <!-- Nanas merupakan salah satu daripada tanaman sumber kekayaan baharu yang menjadi matlamat untuk kami terokai. Sehingga kini, kami sedang mengusahakan plot percubaan tanaman Nanas MD2 seluas 5 Ekar di Ladang Sungai Kerpai dan akan mengembangkan tanaman tersebut di kawasan lain yang sesuai. -->
               </div>       
@@ -194,14 +208,33 @@
                 <p>AKUAKULTUR</p>
               </div>
               <div class="row content">
-                <ol>
-                  <li>Ladang Sungai Kerpai</li>
-                </ol>
+                <p>Ternakan akuakultur di Ladang Sungai Kerpai</p>
                 <!-- lsk <p>Bagi memaksimumkan penggunaan tanah dan menjana pendapatan sampingan, kami turut menjalankan ternakan air di kolam-kolam bersebelahan kawasan Ibu Pejabat kami.</p> -->
               </div>       
           </div>
           <div class="col-lg-6">
             <img src="assets/img/activity/akuakultur.jpg" width="100%">
+          </div>
+        </div>
+      </div>
+    </section>
+  <!-- End Section -->
+
+  <!-- ======= Ternakan Integrasi Section ======= -->
+  <section id="ternakanintegrasi"  style=" background-color: #FFBD1C;">
+      <div class="container" data-aos="fade-right">        
+        <div class="row">
+          <div class="col-lg-6">
+              <div class="section-title">
+                <h2>AKTIVITI KAMI</h2>
+                <p>TERNAKAN LEMBU INTEGRASI</p>
+              </div>
+              <div class="row content">
+                <p>1. Ladang Sungai Kerpai</p>
+              </div>       
+          </div>
+          <div class="col-lg-6">
+            <img src="assets/img/activity/ternakan.jpg" width="100%">
           </div>
         </div>
       </div>
@@ -232,17 +265,18 @@
     </section>
   <!-- End Section -->
 
+
    <!-- ======= Beras Generasi Section ======= -->
-   <section id="berasgenerasi"  style=" background-color: #ffcb69;">
+   <section id="berasgenerasi"  style=" background-color: #01AB00;">
       <div class="container" data-aos="fade-right">        
         <div class="row">
           <div class="col-lg-6">
-              <div class="section-title">
-                <h2>AKTIVITI KAMI</h2>
-                <p>BERAS GENERASI</p>
+              <div class="section-title text-white">
+                <h2 class="text-white">AKTIVITI KAMI</h2>
+                <p class="text-white">BERAS GENERASI</p>
               </div>
               <div class="row content">
-                <p>Dengan konsep <b>"Dari Ladang Ke Meja Hidang"</b>, kami turut mengeluarkan produk beras yang dipasarkan dengan nama <b>"Beras Generasi"</b> sebagai produk hiliran kepada aktiviti penanaman padi yang dijalankan.</p>
+                <p class="text-white">Dengan konsep <b>"Dari Ladang Ke Meja Hidang"</b>, kami turut mengeluarkan produk beras yang dipasarkan dengan nama <b>"Beras Generasi"</b> sebagai produk hiliran kepada aktiviti penanaman padi yang dijalankan.</p>
 
               </div>       
           </div>
@@ -253,6 +287,7 @@
       </div>
     </section>
   <!-- End Section -->
+
 
 
  

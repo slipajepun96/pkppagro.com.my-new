@@ -21,18 +21,25 @@
         <div class="container">
           <div class="row row-30">
 		  
-		  <div class="col-md-7 d-none d-lg-block">
-              
-              <dt><h5><b>Pautan Pantas</b></h5></dt>
-              <ul>
-                <li><a href="https://pkppagro.com.my:2096/?">Webmail</li>
-                <li><a href="whistleblowing.php">Integriti & <i>Whiteblowing</i></a></li>
-                <li><a href="https://www.pkppagro.com.my/ipamis.php">Sistem IPAMIS</a></li>
-              </ul>
+		  <div class="col-md-7"> 
+        <div class=" d-none d-lg-block">             
+        <dt><h5><b>Pautan Pantas</b></h5></dt>
+        <ul>
+          <li><a href="https://pkppagro.com.my:2096/?">Webmail</li>
+          <li><a href="whistleblowing.php">Integriti & <i>Whiteblowing</i></a></li>
+          <li><a href="https://www.pkppagro.com.my/ipamis.php">Sistem IPAMIS</a></li>
+        </ul>
+        </div>
+        <div class="social-links d-inline">
+          <h1>
+            <a href="https://wa.me/message/CWZCOWSJDUJUG1" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
+            <a href="https://www.facebook.com/pkppagro/" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
+          </h1>
+        </div>
               
              
               
-            </div>
+      </div>
 		  
             <div class="col-md-4 col-xl-5">
               <div class="pr-xl-6">

@@ -197,7 +197,7 @@
               </div>
               <div class="member-info">
                 <h4>Encik Mohd. Mukhairi bin Osman</h4>
-                <span>Penolong Pengurus</span>
+                <span>Penolong Pengurus Kanan</span>
               </div>
             </div>
           </div>
