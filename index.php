@@ -46,6 +46,27 @@
   chatbox.setAttribute("attribution", "biz_inbox");
 </script>
 
+<style>
+    @media (max-width: 767px) {
+        .hidden-mobile {
+          display: none;
+        }
+        .display-mobile {
+          display: block;
+        }
+      }
+      @media (min-width: 768px) {
+        .hidden-mobile {
+          display: block;
+        }
+        .display-mobile {
+          display: none;
+        }
+      }
+    
+    
+  </style>
+
 <!-- Your SDK code -->
 <script>
   window.fbAsyncInit = function() {
@@ -66,6 +87,34 @@
 
 <!-- END of FB Messenger Plugin -->
  <?php include('header.php'); ?>
+<?php 
+$today=date("Y/m/d");
+
+// $today="2022/04/16";
+$start_date="2022/04/17";
+$end_date="2022/04/20";
+
+if(($today>=$start_date)&&($today<=$end_date))
+{
+  
+?>
+  <div id="carouselExampleIndicators" class="carousel slide hidden-mobile" data-ride="carousel">
+    <div class="carousel-inner">    
+      <div class="carousel-item active">
+        <img class="d-block w-100 item " src="assets/img/image/2022 poster nuzul al quran.jpg" height="100%">
+      </div>    
+    </div>  
+  </div>
+  <div id="carouselExampleIndicators" class="carousel slide display-mobile" data-ride="carousel">
+    <div class="carousel-inner">    
+      <div class="carousel-item active">
+        <img class="d-block w-100 item " src="assets/img/image/2022 poster nuzul al quran -mobile.jpg" height="100%">
+      </div>    
+    </div>  
+  </div>
+<?php }
+else{
+   ?>
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-end align-items-center">
@@ -119,7 +168,9 @@
     </svg>
 
   </section><!-- End Hero -->
-
+<?php 
+}
+?>
   <main>
 <br>
 <div class="container">

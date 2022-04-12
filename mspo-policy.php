@@ -100,7 +100,7 @@ $p_id=$_GET['p_id'];
              }			?>
  <div class="col-12">
     <a href="mspo.php" class="btn btn-warning active" role="button"aria-pressed="true" > <span class="glyphicon glyphicon-align-left"></span>Kembali</a><h5 align="center"><?php echo $name;?><h5><br>		
-		<img src="/image/<?php echo $pic?>" style="border:5px solid black" width="100%">
+		<img src="assets/img/mspo/<?php echo $pic?>" style="border:5px solid black" width="100%">
   </div>
 
 

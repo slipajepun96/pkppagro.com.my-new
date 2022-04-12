@@ -110,13 +110,16 @@
                   <!-- Kami turut terlibat dalam tanaman kelapa sawit dengan menguruskan ladang-ladang sekitar daerah Rompin & Pekan dengan jumlah keluasan bertanam lebih daripada 3,000 Hektar. -->
                 </p><br>
                 <p>
-                  1. Ladang Sungai Kerpai<br>
-                  &nbsp;&nbsp;<i class='bx bx-subdirectory-right'></i>Ladang Koperasi Sepayang<br>
-                  &nbsp;&nbsp;<i class='bx bx-subdirectory-right'></i>Ladang Sungai Laka<br><br>
-                  2. Ladang PKPP Paloh Hinai<br>
-                  &nbsp;&nbsp;<i class='bx bx-subdirectory-right'></i>Ladang Koperasi Sri Inai<br><br>
-                  3. Ladang PKPP Sri Jelutong<br>
-                  &nbsp;&nbsp;<i class='bx bx-subdirectory-right'></i>Ladang Kampung Pasir<br>
+                  Pengurusan Ladang Sungai Kerpai<br>
+                  &nbsp;&nbsp;<i class='bx bx-subdirectory-right'></i>Ladang Sungai Kerpai (LSK)<br>
+                  &nbsp;&nbsp;<i class='bx bx-subdirectory-right'></i>Ladang Koperasi Sepayang (LKS)<br>
+                  &nbsp;&nbsp;<i class='bx bx-subdirectory-right'></i>Ladang Sungai Laka (LSL)<br><br>
+                  Pengurusan Ladang PKPP Paloh Hinai<br>
+                  &nbsp;&nbsp;<i class='bx bx-subdirectory-right'></i>Ladang PKPP Paloh Hinai (LPH)<br>
+                  &nbsp;&nbsp;<i class='bx bx-subdirectory-right'></i>Ladang Koperasi Sri Inai (LSI)<br><br>
+                  Pengurusan Ladang PKPP Sri Jelutong<br>
+                  &nbsp;&nbsp;<i class='bx bx-subdirectory-right'></i>Ladang PKPP Sri Jelutong (LSJ)<br>
+                  &nbsp;&nbsp;<i class='bx bx-subdirectory-right'></i>Ladang Kampung Pasir (LKP)<br>
                 </p>
                 <!-- <ul class="list-group" >
                   <li class="list-group-item">1. Ladang Sungai Kerpai
@@ -258,7 +261,25 @@
               </div>       
           </div>
           <div class="col-lg-6">
-            <img src="assets/img/activity/agrotourism.png" width="100%">
+            <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+              <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+              </div>
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <img src="assets/img/activity/agrotourism.png" class="d-block w-100" alt="..."><br>
+                </div>
+                <div class="carousel-item">
+                  <img src="assets/img/activity/agrotourism-2.jpg" class="d-block w-100" alt="..."><br>
+                </div>
+                <div class="carousel-item">
+                  <img src="assets/img/activity/agrotourism-3.jpg" class="d-block w-100" alt="..."><br>
+                </div>
+              
+              </div>
+            </div>
           </div>
         </div>
       </div>
