@@ -90,9 +90,11 @@
 <?php 
 $today=date("Y/m/d");
 
-// $today="2022/04/16";
-$start_date="2022/04/17";
-$end_date="2022/04/20";
+// $today="2022/05/01";
+$start_date="2022/04/30";
+$end_date="2022/05/01";
+$start_date2="2022/05/02";
+$end_date2="2022/05/10";
 
 if(($today>=$start_date)&&($today<=$end_date))
 {
@@ -101,14 +103,33 @@ if(($today>=$start_date)&&($today<=$end_date))
   <div id="carouselExampleIndicators" class="carousel slide hidden-mobile" data-ride="carousel">
     <div class="carousel-inner">    
       <div class="carousel-item active">
-        <img class="d-block w-100 item " src="assets/img/image/2022 poster nuzul al quran.jpg" height="100%">
+        <img class="d-block w-100 item " src="assets/img/image/2022 poster hari pekerja-desktop.jpg" height="100%">
       </div>    
     </div>  
   </div>
   <div id="carouselExampleIndicators" class="carousel slide display-mobile" data-ride="carousel">
     <div class="carousel-inner">    
       <div class="carousel-item active">
-        <img class="d-block w-100 item " src="assets/img/image/2022 poster nuzul al quran -mobile.jpg" height="100%">
+        <img class="d-block w-100 item " src="assets/img/image/2022 poster hari pekerja-mobile.jpg" height="100%">
+      </div>    
+    </div>  
+  </div>
+<?php }
+elseif(($today>=$start_date2)&&($today<=$end_date2))
+{
+  
+?>
+  <div id="carouselExampleIndicators" class="carousel slide hidden-mobile" data-ride="carousel">
+    <div class="carousel-inner">    
+      <div class="carousel-item active">
+        <img class="d-block w-100 item " src="assets/img/image/2022 poster hari raya aidilfitri-website-desktop.jpg" height="100%">
+      </div>    
+    </div>  
+  </div>
+  <div id="carouselExampleIndicators" class="carousel slide display-mobile" data-ride="carousel">
+    <div class="carousel-inner">    
+      <div class="carousel-item active">
+        <img class="d-block w-100 item " src="assets/img/image/2022 poster hari raya aidilfitri-website-mobile.jpg" height="100%">
       </div>    
     </div>  
   </div>

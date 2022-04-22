@@ -57,14 +57,15 @@
 
     <section class="inner-page">
   <div class="container">
-		<div class="row">
-			<div class="col-md-6" data-aos="slide-up">
+		<div class="row shadow rounded" data-aos="slide-up">
+			<div class="col-md-6" >
 				<h4><b>PKPP Agro Sdn. Bhd.</b></h4>
        			<address> <h6>KM 4, Jalan Selendang,<br>26800 Kuala Rompin,<br>Pahang Darul Makmur<br></h6></address>
               Telefon : <a href="tel:+601126637117">011-2663 7117</a> (Waktu Operasi : Isnin - Jumaat, 8.00 pagi - 5.00 petang)<br>
 				      Emel : <a href="mailto:pkppagro@gmail.com">pkppagro@gmail.com</a></h4><br><br>
               <a href="https://goo.gl/maps/4AZFeb6CSdArevqd9" target="_blank"><button class="rounded-pill btn btn-primary mb-1">Lokasi Ibu Pejabat <i class="bi bi-box-arrow-up-right"></i></button></a>   
-			</div>
+              <br><br>
+            </div>
       <div class="col-md-6" data-aos="slide-up">
       <div class="fb-page" data-href="https://www.facebook.com/pkppagro/" data-tabs="" data-width="" data-height="400" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/pkppagro/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/pkppagro/">PKPP AGRO SDN BHD</a></blockquote></div>
       </div>

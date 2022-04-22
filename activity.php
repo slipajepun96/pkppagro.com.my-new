@@ -29,6 +29,14 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
+  <script src="assets/js/slipe-4.0.1/dist/js/splide.min.js"></script>
+
+  <script>
+  document.addEventListener( 'DOMContentLoaded', function () {
+    new Splide( '#image-carousel' ).mount();
+  } );
+</script>
+
 </head>
 
 <body>
@@ -261,15 +269,19 @@
               </div>       
           </div>
           <div class="col-lg-6">
-            <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+            <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
               <div class="carousel-indicators">
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>                
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
               </div>
               <div class="carousel-inner">
                 <div class="carousel-item active">
                   <img src="assets/img/activity/agrotourism.png" class="d-block w-100" alt="..."><br>
+                </div>
+                <div class="carousel-item">
+                  <img src="assets/img/activity/agrotourism-4.jpg" class="d-block w-100" alt="..."><br>
                 </div>
                 <div class="carousel-item">
                   <img src="assets/img/activity/agrotourism-2.jpg" class="d-block w-100" alt="..."><br>
@@ -279,6 +291,12 @@
                 </div>
               
               </div>
+              <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              </a>
             </div>
           </div>
         </div>

@@ -69,10 +69,6 @@
         <div class="col-md-7 mx-auto">
           <br>
           <h2 style="color: #ffffff;">PKPP Agro telah memperolehi pensijilan <br><b>ISO 37001:2016</b><br> Sistem Pengurusan Anti-Rasuah <br><i>(Anti-Bribery Management System)</i> - ABMS</h2> 
-          <!-- Tradewinds Plantation Berhad is committed to conducting business dealings with integrity.
-          This means avoiding practices of bribery and corruption of all forms in the company’s daily operations.
-          We have adopted a zerotolerance approach against all forms of bribery and corruption.
-          Penalties shall be imposed on any employee who participate in any acts of bribery or corruption. -->
           <p style="color: #ffffff;" class="hidden-mobile">PKPP Agro Sdn. Bhd. komited untuk melaksanakan urus niaga perniagaan dengan berintegriti. Ini termasuklah melarang amalan rasuah dan salah guna kuasa tidak kira dalam sebarang bentuk dalam operasi seharian syarikat.
           </p>
           <p style="color: #ffffff;" class="hidden-mobile">Kami tidak bertoleransi dan berkompromi terhadap sebarang bentuk rasuah dan salah guna kuasa dan akan mengenakan tindakan tatatertib yang sesuai kepada pihak yang terlibat dengan amalan tersebut. 
