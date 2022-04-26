@@ -25,23 +25,39 @@
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
   <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <!-- Link to the file hosted on your server, -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.0.1/dist/css/splide.min.css">
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.0.1/dist/css/themes/splide-sea-green.min.css"> -->
+
+  <!-- js -->
+  <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.0.1/dist/js/splide.min.js"></script>
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
-  <script src="assets/js/slipe-4.0.1/dist/js/splide.min.js"></script>
+<style>
+  .splide__slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+</style>
 
-  <script>
-  document.addEventListener( 'DOMContentLoaded', function () {
-    new Splide( '#image-carousel' ).mount();
+<script>
+  document.addEventListener( 'DOMContentLoaded', function() {
+    var elms = document.getElementsByClassName( 'splide' );
+
+for ( var i = 0; i < elms.length; i++ ) {
+  new Splide( elms[ i ] ).mount();
+}
   } );
 </script>
 
 </head>
 
 <body>
-<?php include('fbm.php') ?>
 
+<?php include('fbm.php') ?>
 
 <?php include('header-inner.php'); ?>
     <!-- ======= Breadcrumbs ======= -->
@@ -97,8 +113,22 @@
               </div>       
           </div>
           <div class="col-lg-6">
-            <img src="assets/img/activity/padi.jpg" width="100%">
+
+
+          <div id="image-carousel" class="splide" aria-label="Paddy Field">
+            <div class="splide__track">
+              <ul class="splide__list">
+                <li class="splide__slide">
+                  <img src="assets/img/activity/padi.jpg" alt="">
+                </li>
+                <li class="splide__slide">
+                  <img src="assets/img/activity/padi-2.png" alt="">
+                </li>
+              </ul>
+            </div>
           </div>
+</div>
+
         </div>
       </div>
     </section>
@@ -148,7 +178,24 @@
               </div>       
           </div>
           <div class="col-lg-6">
-            <img src="assets/img/activity/sawit.jpg" width="100%">
+            <div id="image-carousel" class="splide" aria-label="Paddy Field">
+              <div class="splide__track">
+                <ul class="splide__list">
+                  <li class="splide__slide">
+                    <img src="assets/img/activity/sawit.jpg" alt="">
+                  </li>
+                  <li class="splide__slide">
+                    <img src="assets/img/activity/sawit-4.JPG" alt="">
+                  </li>
+                  <li class="splide__slide">
+                    <img src="assets/img/activity/sawit-2.jpg" alt="">
+                  </li>
+                  <li class="splide__slide">
+                    <img src="assets/img/activity/sawit-3.jpg" alt="">
+                  </li>
+                </ul>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -172,7 +219,18 @@
               </div>       
           </div>
           <div class="col-lg-6">
-            <img src="assets/img/activity/kelapa.jpg" width="100%">
+            <div id="image-carousel" class="splide" aria-label="Paddy Field">
+              <div class="splide__track">
+                <ul class="splide__list">
+                  <li class="splide__slide">
+                    <img src="assets/img/activity/kelapa.jpg" alt="">
+                  </li>
+                  <li class="splide__slide">
+                    <img src="assets/img/activity/kelapa-2.png" alt="">
+                  </li>
+                </ul>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -202,7 +260,21 @@
               </div>       
           </div>
           <div class="col-lg-6">
-            <img src="assets/img/activity/nanas-2.jpg" width="100%">
+            <div id="image-carousel" class="splide" aria-label="Paddy Field">
+              <div class="splide__track">
+                <ul class="splide__list">
+                  <li class="splide__slide">
+                    <img src="assets/img/activity/nanas-2.jpg" alt="">
+                  </li>
+                  <li class="splide__slide">
+                    <img src="assets/img/activity/nanas-2.jpg" alt="">
+                  </li>
+                  <li class="splide__slide">
+                    <img src="assets/img/activity/nanas-2.jpg" alt="">
+                  </li>
+                </ul>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -245,7 +317,21 @@
               </div>       
           </div>
           <div class="col-lg-6">
-            <img src="assets/img/activity/ternakan.jpg" width="100%">
+            <div id="image-carousel" class="splide" aria-label="Paddy Field">
+              <div class="splide__track">
+                <ul class="splide__list">
+                  <li class="splide__slide">
+                    <img src="assets/img/activity/ternakan.JPG" alt="">
+                  </li>
+                  <li class="splide__slide">
+                    <img src="assets/img/activity/ternakan-2.JPG" alt="">
+                  </li>
+                  <li class="splide__slide">
+                    <img src="assets/img/activity/ternakan-3.JPG" alt="">
+                  </li>
+                </ul>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -265,11 +351,33 @@
                 <p>AGROTOURISM PAYA LAKA</p>
               </div>
               <div class="row content">
-                <p>Bagi meningkatkan lagi daya tarikan pelancongan di daerah Rompin, Projek Agrotourism Paya Laka dibangunkan di tengah-tengah sawah kami yang menawarkan permandangan yang indah, serta peluang untuk merasai aktiviti penanaman padi tradisional seperti mencedung.</p>
+                <p>Bagi meningkatkan lagi daya tarikan pelancongan di daerah Rompin, Projek Agrotourism Paya Laka dibangunkan di tengah-tengah sawah kami yang menawarkan 
+                  permandangan yang indah, serta peluang untuk merasai aktiviti penanaman padi tradisional seperti mencedung.</p>
+                <p>Selain itu, burung dan ternakan-ternakan seperti itik, ayam serama dan rusa juga boleh dilihat di kawasan Ladang Sungai Kerpai yang berhampiran dengan tapak Agrotourism.</p>
+                <div class="my-2"><a href="tel:+601126637117" ><button class="rounded-pill btn btn-outline-success mb-1">Hubungi kami untuk maklumat lanjut & lawatan <i class="bi bi-telephone-outbound"></i></button></a>
+                </div>
               </div>       
           </div>
           <div class="col-lg-6">
-            <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+            <div id="image-carousel" class="splide" aria-label="Paddy Field">
+              <div class="splide__track">
+                <ul class="splide__list">
+                  <li class="splide__slide">
+                    <img src="assets/img/activity/agrotourism.png" alt="">
+                  </li>
+                  <li class="splide__slide">
+                    <img src="assets/img/activity/agrotourism-4.jpg" alt="">
+                  </li>
+                  <li class="splide__slide">
+                    <img src="assets/img/activity/agrotourism-2.jpg" alt="">
+                  </li>
+                  <li class="splide__slide">
+                    <img src="assets/img/activity/agrotourism-3.jpg" alt="">
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <!-- <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
               <div class="carousel-indicators">
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -297,7 +405,7 @@
               <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
               </a>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>
